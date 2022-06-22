@@ -1,0 +1,1146 @@
+09/02/2022 05:56:37 PM - INFO - log - 
+
+09/02/2022 05:56:37 PM - INFO - log - ====== WebDriver manager ======
+09/02/2022 05:56:37 PM - INFO - log - Current google-chrome version is 97.0.4692
+09/02/2022 05:56:37 PM - INFO - log - Get LATEST chromedriver version for 97.0.4692 google-chrome
+09/02/2022 05:56:38 PM - INFO - log - There is no [win32] chromedriver for browser  in cache
+09/02/2022 05:56:38 PM - INFO - log - Trying to download new driver from https://chromedriver.storage.googleapis.com/97.0.4692.71/chromedriver_win32.zip
+09/02/2022 05:56:38 PM - INFO - log - Driver has been saved in cache [C:\Users\Bilal Hussain\.wdm\drivers\chromedriver\win32\97.0.4692.71]
+09/02/2022 06:19:02 PM - INFO - log - 
+
+09/02/2022 06:19:02 PM - INFO - log - ====== WebDriver manager ======
+09/02/2022 06:19:02 PM - INFO - log - Current google-chrome version is 97.0.4692
+09/02/2022 06:19:02 PM - INFO - log - Get LATEST chromedriver version for 97.0.4692 google-chrome
+09/02/2022 06:19:03 PM - INFO - log - Driver [C:\Users\Bilal Hussain\.wdm\drivers\chromedriver\win32\97.0.4692.71\chromedriver.exe] found in cache
+09/02/2022 07:07:42 PM - INFO - log - 
+
+09/02/2022 07:07:42 PM - INFO - log - ====== WebDriver manager ======
+09/02/2022 07:07:42 PM - INFO - log - Current google-chrome version is 97.0.4692
+09/02/2022 07:07:42 PM - INFO - log - Get LATEST chromedriver version for 97.0.4692 google-chrome
+09/02/2022 07:07:42 PM - INFO - log - Driver [C:\Users\Bilal Hussain\.wdm\drivers\chromedriver\win32\97.0.4692.71\chromedriver.exe] found in cache
+09/02/2022 07:08:11 PM - INFO - log - 
+
+09/02/2022 07:08:11 PM - INFO - log - ====== WebDriver manager ======
+09/02/2022 07:08:11 PM - INFO - log - Current google-chrome version is 97.0.4692
+09/02/2022 07:08:11 PM - INFO - log - Get LATEST chromedriver version for 97.0.4692 google-chrome
+09/02/2022 07:08:11 PM - INFO - log - Driver [C:\Users\Bilal Hussain\.wdm\drivers\chromedriver\win32\97.0.4692.71\chromedriver.exe] found in cache
+09/02/2022 07:57:02 PM - INFO - log - 
+
+09/02/2022 07:57:02 PM - INFO - log - ====== WebDriver manager ======
+09/02/2022 07:57:02 PM - INFO - log - Current google-chrome version is 97.0.4692
+09/02/2022 07:57:02 PM - INFO - log - Get LATEST chromedriver version for 97.0.4692 google-chrome
+09/02/2022 07:57:02 PM - INFO - log - Driver [C:\Users\Bilal Hussain\.wdm\drivers\chromedriver\win32\97.0.4692.71\chromedriver.exe] found in cache
+09/02/2022 09:03:42 PM - INFO - log - 
+
+09/02/2022 09:03:42 PM - INFO - log - ====== WebDriver manager ======
+09/02/2022 09:03:42 PM - INFO - log - Current google-chrome version is 97.0.4692
+09/02/2022 09:03:42 PM - INFO - log - Get LATEST chromedriver version for 97.0.4692 google-chrome
+09/02/2022 09:03:43 PM - INFO - log - Driver [C:\Users\Bilal Hussain\.wdm\drivers\chromedriver\win32\97.0.4692.71\chromedriver.exe] found in cache
+09/02/2022 09:48:51 PM - INFO - log - 
+
+09/02/2022 09:48:51 PM - INFO - log - ====== WebDriver manager ======
+09/02/2022 09:48:51 PM - INFO - log - Current google-chrome version is 97.0.4692
+09/02/2022 09:48:51 PM - INFO - log - Get LATEST chromedriver version for 97.0.4692 google-chrome
+09/02/2022 09:48:51 PM - INFO - log - Driver [C:\Users\Bilal Hussain\.wdm\drivers\chromedriver\win32\97.0.4692.71\chromedriver.exe] found in cache
+09/02/2022 09:53:55 PM - INFO - log - 
+
+09/02/2022 09:53:55 PM - INFO - log - ====== WebDriver manager ======
+09/02/2022 09:53:55 PM - INFO - log - Current google-chrome version is 97.0.4692
+09/02/2022 09:53:55 PM - INFO - log - Get LATEST chromedriver version for 97.0.4692 google-chrome
+09/02/2022 09:53:56 PM - INFO - log - Driver [C:\Users\Bilal Hussain\.wdm\drivers\chromedriver\win32\97.0.4692.71\chromedriver.exe] found in cache
+10/02/2022 02:12:52 PM - INFO - log - 
+
+10/02/2022 02:12:52 PM - INFO - log - ====== WebDriver manager ======
+10/02/2022 02:12:52 PM - INFO - log - Current google-chrome version is 97.0.4692
+10/02/2022 02:12:52 PM - INFO - log - Get LATEST chromedriver version for 97.0.4692 google-chrome
+10/02/2022 02:12:53 PM - INFO - log - Trying to download new driver from https://chromedriver.storage.googleapis.com/97.0.4692.71/chromedriver_win32.zip
+10/02/2022 02:12:54 PM - INFO - log - Driver has been saved in cache [C:\Users\Bilal Hussain\.wdm\drivers\chromedriver\win32\97.0.4692.71]
+10/02/2022 02:15:40 PM - INFO - log - 
+
+10/02/2022 02:15:40 PM - INFO - log - ====== WebDriver manager ======
+10/02/2022 02:15:40 PM - INFO - log - Current google-chrome version is 97.0.4692
+10/02/2022 02:15:40 PM - INFO - log - Get LATEST chromedriver version for 97.0.4692 google-chrome
+10/02/2022 02:15:40 PM - INFO - log - Driver [C:\Users\Bilal Hussain\.wdm\drivers\chromedriver\win32\97.0.4692.71\chromedriver.exe] found in cache
+10/02/2022 02:19:01 PM - INFO - log - 
+
+10/02/2022 02:19:01 PM - INFO - log - ====== WebDriver manager ======
+10/02/2022 02:19:01 PM - INFO - log - Current google-chrome version is 97.0.4692
+10/02/2022 02:19:01 PM - INFO - log - Get LATEST chromedriver version for 97.0.4692 google-chrome
+10/02/2022 02:19:02 PM - INFO - log - Driver [C:\Users\Bilal Hussain\.wdm\drivers\chromedriver\win32\97.0.4692.71\chromedriver.exe] found in cache
+10/02/2022 02:23:44 PM - INFO - log - 
+
+10/02/2022 02:23:44 PM - INFO - log - ====== WebDriver manager ======
+10/02/2022 02:23:44 PM - INFO - log - Current google-chrome version is 97.0.4692
+10/02/2022 02:23:44 PM - INFO - log - Get LATEST chromedriver version for 97.0.4692 google-chrome
+10/02/2022 02:23:44 PM - INFO - log - Driver [C:\Users\Bilal Hussain\.wdm\drivers\chromedriver\win32\97.0.4692.71\chromedriver.exe] found in cache
+10/02/2022 02:24:26 PM - INFO - log - 
+
+10/02/2022 02:24:26 PM - INFO - log - ====== WebDriver manager ======
+10/02/2022 02:24:26 PM - INFO - log - Current google-chrome version is 97.0.4692
+10/02/2022 02:24:26 PM - INFO - log - Get LATEST chromedriver version for 97.0.4692 google-chrome
+10/02/2022 02:24:27 PM - INFO - log - Driver [C:\Users\Bilal Hussain\.wdm\drivers\chromedriver\win32\97.0.4692.71\chromedriver.exe] found in cache
+10/02/2022 02:24:53 PM - INFO - log - 
+
+10/02/2022 02:24:53 PM - INFO - log - ====== WebDriver manager ======
+10/02/2022 02:24:53 PM - INFO - log - Current google-chrome version is 97.0.4692
+10/02/2022 02:24:53 PM - INFO - log - Get LATEST chromedriver version for 97.0.4692 google-chrome
+10/02/2022 02:24:53 PM - INFO - log - Driver [C:\Users\Bilal Hussain\.wdm\drivers\chromedriver\win32\97.0.4692.71\chromedriver.exe] found in cache
+10/02/2022 02:32:05 PM - INFO - log - 
+
+10/02/2022 02:32:05 PM - INFO - log - ====== WebDriver manager ======
+10/02/2022 02:32:05 PM - INFO - log - Current google-chrome version is 97.0.4692
+10/02/2022 02:32:05 PM - INFO - log - Get LATEST chromedriver version for 97.0.4692 google-chrome
+10/02/2022 02:32:06 PM - INFO - log - Driver [C:\Users\Bilal Hussain\.wdm\drivers\chromedriver\win32\97.0.4692.71\chromedriver.exe] found in cache
+10/02/2022 02:34:22 PM - INFO - log - 
+
+10/02/2022 02:34:22 PM - INFO - log - ====== WebDriver manager ======
+10/02/2022 02:34:22 PM - INFO - log - Current google-chrome version is 97.0.4692
+10/02/2022 02:34:22 PM - INFO - log - Get LATEST chromedriver version for 97.0.4692 google-chrome
+10/02/2022 02:34:22 PM - INFO - log - Driver [C:\Users\Bilal Hussain\.wdm\drivers\chromedriver\win32\97.0.4692.71\chromedriver.exe] found in cache
+10/02/2022 02:35:53 PM - INFO - log - 
+
+10/02/2022 02:35:53 PM - INFO - log - ====== WebDriver manager ======
+10/02/2022 02:35:53 PM - INFO - log - Current google-chrome version is 97.0.4692
+10/02/2022 02:35:53 PM - INFO - log - Get LATEST chromedriver version for 97.0.4692 google-chrome
+10/02/2022 02:35:53 PM - INFO - log - Driver [C:\Users\Bilal Hussain\.wdm\drivers\chromedriver\win32\97.0.4692.71\chromedriver.exe] found in cache
+10/02/2022 02:48:15 PM - INFO - log - 
+
+10/02/2022 02:48:15 PM - INFO - log - ====== WebDriver manager ======
+10/02/2022 02:48:15 PM - INFO - log - Current google-chrome version is 97.0.4692
+10/02/2022 02:48:15 PM - INFO - log - Get LATEST chromedriver version for 97.0.4692 google-chrome
+10/02/2022 02:48:16 PM - INFO - log - Driver [C:\Users\Bilal Hussain\.wdm\drivers\chromedriver\win32\97.0.4692.71\chromedriver.exe] found in cache
+10/02/2022 02:48:30 PM - INFO - log - 
+
+10/02/2022 02:48:30 PM - INFO - log - ====== WebDriver manager ======
+10/02/2022 02:48:30 PM - INFO - log - Current google-chrome version is 97.0.4692
+10/02/2022 02:48:30 PM - INFO - log - Get LATEST chromedriver version for 97.0.4692 google-chrome
+10/02/2022 02:48:30 PM - INFO - log - Driver [C:\Users\Bilal Hussain\.wdm\drivers\chromedriver\win32\97.0.4692.71\chromedriver.exe] found in cache
+10/02/2022 02:59:09 PM - INFO - log - 
+
+10/02/2022 02:59:09 PM - INFO - log - ====== WebDriver manager ======
+10/02/2022 02:59:09 PM - INFO - log - Current google-chrome version is 97.0.4692
+10/02/2022 02:59:09 PM - INFO - log - Get LATEST chromedriver version for 97.0.4692 google-chrome
+10/02/2022 02:59:09 PM - INFO - log - Driver [C:\Users\Bilal Hussain\.wdm\drivers\chromedriver\win32\97.0.4692.71\chromedriver.exe] found in cache
+10/02/2022 03:13:02 PM - INFO - log - 
+
+10/02/2022 03:13:02 PM - INFO - log - ====== WebDriver manager ======
+10/02/2022 03:13:02 PM - INFO - log - Current google-chrome version is 97.0.4692
+10/02/2022 03:13:02 PM - INFO - log - Get LATEST chromedriver version for 97.0.4692 google-chrome
+10/02/2022 03:13:03 PM - INFO - log - Driver [C:\Users\Bilal Hussain\.wdm\drivers\chromedriver\win32\97.0.4692.71\chromedriver.exe] found in cache
+10/02/2022 03:15:39 PM - INFO - log - 
+
+10/02/2022 03:15:39 PM - INFO - log - ====== WebDriver manager ======
+10/02/2022 03:15:39 PM - INFO - log - Current google-chrome version is 97.0.4692
+10/02/2022 03:15:39 PM - INFO - log - Get LATEST chromedriver version for 97.0.4692 google-chrome
+10/02/2022 03:15:39 PM - INFO - log - Driver [C:\Users\Bilal Hussain\.wdm\drivers\chromedriver\win32\97.0.4692.71\chromedriver.exe] found in cache
+10/02/2022 03:16:00 PM - INFO - log - 
+
+10/02/2022 03:16:00 PM - INFO - log - ====== WebDriver manager ======
+10/02/2022 03:16:00 PM - INFO - log - Current google-chrome version is 97.0.4692
+10/02/2022 03:16:00 PM - INFO - log - Get LATEST chromedriver version for 97.0.4692 google-chrome
+10/02/2022 03:16:01 PM - INFO - log - Driver [C:\Users\Bilal Hussain\.wdm\drivers\chromedriver\win32\97.0.4692.71\chromedriver.exe] found in cache
+10/02/2022 03:16:40 PM - INFO - log - 
+
+10/02/2022 03:16:40 PM - INFO - log - ====== WebDriver manager ======
+10/02/2022 03:16:40 PM - INFO - log - Current google-chrome version is 97.0.4692
+10/02/2022 03:16:40 PM - INFO - log - Get LATEST chromedriver version for 97.0.4692 google-chrome
+10/02/2022 03:16:41 PM - INFO - log - Driver [C:\Users\Bilal Hussain\.wdm\drivers\chromedriver\win32\97.0.4692.71\chromedriver.exe] found in cache
+10/02/2022 03:18:01 PM - INFO - log - 
+
+10/02/2022 03:18:01 PM - INFO - log - ====== WebDriver manager ======
+10/02/2022 03:18:01 PM - INFO - log - Current google-chrome version is 97.0.4692
+10/02/2022 03:18:01 PM - INFO - log - Get LATEST chromedriver version for 97.0.4692 google-chrome
+10/02/2022 03:18:01 PM - INFO - log - Driver [C:\Users\Bilal Hussain\.wdm\drivers\chromedriver\win32\97.0.4692.71\chromedriver.exe] found in cache
+10/02/2022 03:20:35 PM - INFO - log - 
+
+10/02/2022 03:20:35 PM - INFO - log - ====== WebDriver manager ======
+10/02/2022 03:20:35 PM - INFO - log - Current google-chrome version is 97.0.4692
+10/02/2022 03:20:35 PM - INFO - log - Get LATEST chromedriver version for 97.0.4692 google-chrome
+10/02/2022 03:20:35 PM - INFO - log - Driver [C:\Users\Bilal Hussain\.wdm\drivers\chromedriver\win32\97.0.4692.71\chromedriver.exe] found in cache
+10/02/2022 03:22:56 PM - INFO - log - 
+
+10/02/2022 03:22:56 PM - INFO - log - ====== WebDriver manager ======
+10/02/2022 03:22:56 PM - INFO - log - Current google-chrome version is 97.0.4692
+10/02/2022 03:22:56 PM - INFO - log - Get LATEST chromedriver version for 97.0.4692 google-chrome
+10/02/2022 03:22:56 PM - INFO - log - Driver [C:\Users\Bilal Hussain\.wdm\drivers\chromedriver\win32\97.0.4692.71\chromedriver.exe] found in cache
+10/02/2022 03:24:22 PM - INFO - log - 
+
+10/02/2022 03:24:22 PM - INFO - log - ====== WebDriver manager ======
+10/02/2022 03:24:22 PM - INFO - log - Current google-chrome version is 97.0.4692
+10/02/2022 03:24:22 PM - INFO - log - Get LATEST chromedriver version for 97.0.4692 google-chrome
+10/02/2022 03:24:23 PM - INFO - log - Driver [C:\Users\Bilal Hussain\.wdm\drivers\chromedriver\win32\97.0.4692.71\chromedriver.exe] found in cache
+10/02/2022 03:25:10 PM - INFO - log - 
+
+10/02/2022 03:25:10 PM - INFO - log - ====== WebDriver manager ======
+10/02/2022 03:25:10 PM - INFO - log - Current google-chrome version is 97.0.4692
+10/02/2022 03:25:10 PM - INFO - log - Get LATEST chromedriver version for 97.0.4692 google-chrome
+10/02/2022 03:25:10 PM - INFO - log - Driver [C:\Users\Bilal Hussain\.wdm\drivers\chromedriver\win32\97.0.4692.71\chromedriver.exe] found in cache
+10/02/2022 03:25:38 PM - INFO - log - 
+
+10/02/2022 03:25:38 PM - INFO - log - ====== WebDriver manager ======
+10/02/2022 03:25:38 PM - INFO - log - Current google-chrome version is 97.0.4692
+10/02/2022 03:25:38 PM - INFO - log - Get LATEST chromedriver version for 97.0.4692 google-chrome
+10/02/2022 03:25:38 PM - INFO - log - Driver [C:\Users\Bilal Hussain\.wdm\drivers\chromedriver\win32\97.0.4692.71\chromedriver.exe] found in cache
+10/02/2022 03:26:30 PM - INFO - log - 
+
+10/02/2022 03:26:30 PM - INFO - log - ====== WebDriver manager ======
+10/02/2022 03:26:30 PM - INFO - log - Current google-chrome version is 97.0.4692
+10/02/2022 03:26:30 PM - INFO - log - Get LATEST chromedriver version for 97.0.4692 google-chrome
+10/02/2022 03:26:30 PM - INFO - log - Driver [C:\Users\Bilal Hussain\.wdm\drivers\chromedriver\win32\97.0.4692.71\chromedriver.exe] found in cache
+10/02/2022 03:28:04 PM - INFO - log - 
+
+10/02/2022 03:28:04 PM - INFO - log - ====== WebDriver manager ======
+10/02/2022 03:28:05 PM - INFO - log - Current google-chrome version is 97.0.4692
+10/02/2022 03:28:05 PM - INFO - log - Get LATEST chromedriver version for 97.0.4692 google-chrome
+10/02/2022 03:28:05 PM - INFO - log - Driver [C:\Users\Bilal Hussain\.wdm\drivers\chromedriver\win32\97.0.4692.71\chromedriver.exe] found in cache
+10/02/2022 03:35:06 PM - INFO - log - 
+
+10/02/2022 03:35:06 PM - INFO - log - ====== WebDriver manager ======
+10/02/2022 03:35:06 PM - INFO - log - Current google-chrome version is 97.0.4692
+10/02/2022 03:35:06 PM - INFO - log - Get LATEST chromedriver version for 97.0.4692 google-chrome
+10/02/2022 03:35:06 PM - INFO - log - Driver [C:\Users\Bilal Hussain\.wdm\drivers\chromedriver\win32\97.0.4692.71\chromedriver.exe] found in cache
+10/02/2022 03:40:38 PM - INFO - log - 
+
+10/02/2022 03:40:38 PM - INFO - log - ====== WebDriver manager ======
+10/02/2022 03:40:38 PM - INFO - log - Current google-chrome version is 97.0.4692
+10/02/2022 03:40:38 PM - INFO - log - Get LATEST chromedriver version for 97.0.4692 google-chrome
+10/02/2022 03:40:38 PM - INFO - log - Driver [C:\Users\Bilal Hussain\.wdm\drivers\chromedriver\win32\97.0.4692.71\chromedriver.exe] found in cache
+10/02/2022 03:41:47 PM - INFO - log - 
+
+10/02/2022 03:41:47 PM - INFO - log - ====== WebDriver manager ======
+10/02/2022 03:41:47 PM - INFO - log - Current google-chrome version is 97.0.4692
+10/02/2022 03:41:47 PM - INFO - log - Get LATEST chromedriver version for 97.0.4692 google-chrome
+10/02/2022 03:41:47 PM - INFO - log - Driver [C:\Users\Bilal Hussain\.wdm\drivers\chromedriver\win32\97.0.4692.71\chromedriver.exe] found in cache
+10/02/2022 03:42:29 PM - INFO - log - 
+
+10/02/2022 03:42:29 PM - INFO - log - ====== WebDriver manager ======
+10/02/2022 03:42:29 PM - INFO - log - Current google-chrome version is 97.0.4692
+10/02/2022 03:42:29 PM - INFO - log - Get LATEST chromedriver version for 97.0.4692 google-chrome
+10/02/2022 03:42:29 PM - INFO - log - Driver [C:\Users\Bilal Hussain\.wdm\drivers\chromedriver\win32\97.0.4692.71\chromedriver.exe] found in cache
+10/02/2022 03:48:22 PM - INFO - log - 
+
+10/02/2022 03:48:22 PM - INFO - log - ====== WebDriver manager ======
+10/02/2022 03:48:22 PM - INFO - log - Current google-chrome version is 97.0.4692
+10/02/2022 03:48:22 PM - INFO - log - Get LATEST chromedriver version for 97.0.4692 google-chrome
+10/02/2022 03:48:22 PM - INFO - log - Driver [C:\Users\Bilal Hussain\.wdm\drivers\chromedriver\win32\97.0.4692.71\chromedriver.exe] found in cache
+10/02/2022 04:14:49 PM - INFO - log - 
+
+10/02/2022 04:14:49 PM - INFO - log - ====== WebDriver manager ======
+10/02/2022 04:14:49 PM - INFO - log - Current google-chrome version is 97.0.4692
+10/02/2022 04:14:49 PM - INFO - log - Get LATEST chromedriver version for 97.0.4692 google-chrome
+10/02/2022 04:14:50 PM - INFO - log - Driver [C:\Users\Bilal Hussain\.wdm\drivers\chromedriver\win32\97.0.4692.71\chromedriver.exe] found in cache
+10/02/2022 04:16:59 PM - INFO - log - 
+
+10/02/2022 04:16:59 PM - INFO - log - ====== WebDriver manager ======
+10/02/2022 04:16:59 PM - INFO - log - Current google-chrome version is 97.0.4692
+10/02/2022 04:16:59 PM - INFO - log - Get LATEST chromedriver version for 97.0.4692 google-chrome
+10/02/2022 04:17:00 PM - INFO - log - Driver [C:\Users\Bilal Hussain\.wdm\drivers\chromedriver\win32\97.0.4692.71\chromedriver.exe] found in cache
+10/02/2022 04:17:55 PM - INFO - log - 
+
+10/02/2022 04:17:55 PM - INFO - log - ====== WebDriver manager ======
+10/02/2022 04:17:55 PM - INFO - log - Current google-chrome version is 97.0.4692
+10/02/2022 04:17:55 PM - INFO - log - Get LATEST chromedriver version for 97.0.4692 google-chrome
+10/02/2022 04:17:56 PM - INFO - log - Driver [C:\Users\Bilal Hussain\.wdm\drivers\chromedriver\win32\97.0.4692.71\chromedriver.exe] found in cache
+10/02/2022 04:33:54 PM - INFO - log - 
+
+10/02/2022 04:33:54 PM - INFO - log - ====== WebDriver manager ======
+10/02/2022 04:33:54 PM - INFO - log - Current google-chrome version is 97.0.4692
+10/02/2022 04:33:54 PM - INFO - log - Get LATEST chromedriver version for 97.0.4692 google-chrome
+10/02/2022 04:33:55 PM - INFO - log - Driver [C:\Users\Bilal Hussain\.wdm\drivers\chromedriver\win32\97.0.4692.71\chromedriver.exe] found in cache
+10/02/2022 04:34:27 PM - INFO - log - 
+
+10/02/2022 04:34:27 PM - INFO - log - ====== WebDriver manager ======
+10/02/2022 04:34:27 PM - INFO - log - Current google-chrome version is 97.0.4692
+10/02/2022 04:34:27 PM - INFO - log - Get LATEST chromedriver version for 97.0.4692 google-chrome
+10/02/2022 04:34:28 PM - INFO - log - Driver [C:\Users\Bilal Hussain\.wdm\drivers\chromedriver\win32\97.0.4692.71\chromedriver.exe] found in cache
+10/02/2022 04:48:49 PM - INFO - log - 
+
+10/02/2022 04:48:49 PM - INFO - log - ====== WebDriver manager ======
+10/02/2022 04:48:49 PM - INFO - log - Current google-chrome version is 97.0.4692
+10/02/2022 04:48:49 PM - INFO - log - Get LATEST chromedriver version for 97.0.4692 google-chrome
+10/02/2022 04:48:49 PM - INFO - log - Driver [C:\Users\Bilal Hussain\.wdm\drivers\chromedriver\win32\97.0.4692.71\chromedriver.exe] found in cache
+10/02/2022 04:56:25 PM - INFO - log - 
+
+10/02/2022 04:56:25 PM - INFO - log - ====== WebDriver manager ======
+10/02/2022 04:56:25 PM - INFO - log - Current google-chrome version is 97.0.4692
+10/02/2022 04:56:25 PM - INFO - log - Get LATEST chromedriver version for 97.0.4692 google-chrome
+10/02/2022 04:56:25 PM - INFO - log - Driver [C:\Users\Bilal Hussain\.wdm\drivers\chromedriver\win32\97.0.4692.71\chromedriver.exe] found in cache
+10/02/2022 05:12:01 PM - INFO - log - 
+
+10/02/2022 05:12:01 PM - INFO - log - ====== WebDriver manager ======
+10/02/2022 05:12:01 PM - INFO - log - Current google-chrome version is 97.0.4692
+10/02/2022 05:12:01 PM - INFO - log - Get LATEST chromedriver version for 97.0.4692 google-chrome
+10/02/2022 05:12:02 PM - INFO - log - Driver [C:\Users\Bilal Hussain\.wdm\drivers\chromedriver\win32\97.0.4692.71\chromedriver.exe] found in cache
+10/02/2022 05:20:41 PM - INFO - log - 
+
+10/02/2022 05:20:41 PM - INFO - log - ====== WebDriver manager ======
+10/02/2022 05:20:41 PM - INFO - log - Current google-chrome version is 97.0.4692
+10/02/2022 05:20:41 PM - INFO - log - Get LATEST chromedriver version for 97.0.4692 google-chrome
+10/02/2022 05:20:41 PM - INFO - log - Driver [C:\Users\Bilal Hussain\.wdm\drivers\chromedriver\win32\97.0.4692.71\chromedriver.exe] found in cache
+10/02/2022 05:21:33 PM - INFO - log - 
+
+10/02/2022 05:21:33 PM - INFO - log - ====== WebDriver manager ======
+10/02/2022 05:21:33 PM - INFO - log - Current google-chrome version is 97.0.4692
+10/02/2022 05:21:33 PM - INFO - log - Get LATEST chromedriver version for 97.0.4692 google-chrome
+10/02/2022 05:21:33 PM - INFO - log - Driver [C:\Users\Bilal Hussain\.wdm\drivers\chromedriver\win32\97.0.4692.71\chromedriver.exe] found in cache
+10/02/2022 05:23:30 PM - INFO - log - 
+
+10/02/2022 05:23:30 PM - INFO - log - ====== WebDriver manager ======
+10/02/2022 05:23:30 PM - INFO - log - Current google-chrome version is 97.0.4692
+10/02/2022 05:23:30 PM - INFO - log - Get LATEST chromedriver version for 97.0.4692 google-chrome
+10/02/2022 05:23:30 PM - INFO - log - Driver [C:\Users\Bilal Hussain\.wdm\drivers\chromedriver\win32\97.0.4692.71\chromedriver.exe] found in cache
+10/02/2022 05:24:41 PM - INFO - log - 
+
+10/02/2022 05:24:41 PM - INFO - log - ====== WebDriver manager ======
+10/02/2022 05:24:41 PM - INFO - log - Current google-chrome version is 97.0.4692
+10/02/2022 05:24:41 PM - INFO - log - Get LATEST chromedriver version for 97.0.4692 google-chrome
+10/02/2022 05:24:41 PM - INFO - log - Driver [C:\Users\Bilal Hussain\.wdm\drivers\chromedriver\win32\97.0.4692.71\chromedriver.exe] found in cache
+10/02/2022 06:57:00 PM - INFO - log - 
+
+10/02/2022 06:57:00 PM - INFO - log - ====== WebDriver manager ======
+10/02/2022 06:57:00 PM - INFO - log - Current google-chrome version is 97.0.4692
+10/02/2022 06:57:00 PM - INFO - log - Get LATEST chromedriver version for 97.0.4692 google-chrome
+10/02/2022 06:57:00 PM - INFO - log - Driver [C:\Users\Bilal Hussain\.wdm\drivers\chromedriver\win32\97.0.4692.71\chromedriver.exe] found in cache
+10/02/2022 06:57:57 PM - INFO - log - 
+
+10/02/2022 06:57:57 PM - INFO - log - ====== WebDriver manager ======
+10/02/2022 06:57:57 PM - INFO - log - Current google-chrome version is 97.0.4692
+10/02/2022 06:57:57 PM - INFO - log - Get LATEST chromedriver version for 97.0.4692 google-chrome
+10/02/2022 06:57:57 PM - INFO - log - Driver [C:\Users\Bilal Hussain\.wdm\drivers\chromedriver\win32\97.0.4692.71\chromedriver.exe] found in cache
+10/02/2022 07:00:44 PM - INFO - log - 
+
+10/02/2022 07:00:44 PM - INFO - log - ====== WebDriver manager ======
+10/02/2022 07:00:44 PM - INFO - log - Current google-chrome version is 97.0.4692
+10/02/2022 07:00:44 PM - INFO - log - Get LATEST chromedriver version for 97.0.4692 google-chrome
+10/02/2022 07:00:44 PM - INFO - log - Driver [C:\Users\Bilal Hussain\.wdm\drivers\chromedriver\win32\97.0.4692.71\chromedriver.exe] found in cache
+10/02/2022 07:02:00 PM - INFO - log - 
+
+10/02/2022 07:02:00 PM - INFO - log - ====== WebDriver manager ======
+10/02/2022 07:02:00 PM - INFO - log - Current google-chrome version is 97.0.4692
+10/02/2022 07:02:00 PM - INFO - log - Get LATEST chromedriver version for 97.0.4692 google-chrome
+10/02/2022 07:02:01 PM - INFO - log - Driver [C:\Users\Bilal Hussain\.wdm\drivers\chromedriver\win32\97.0.4692.71\chromedriver.exe] found in cache
+10/02/2022 07:02:45 PM - INFO - log - 
+
+10/02/2022 07:02:45 PM - INFO - log - ====== WebDriver manager ======
+10/02/2022 07:02:45 PM - INFO - log - Current google-chrome version is 97.0.4692
+10/02/2022 07:02:45 PM - INFO - log - Get LATEST chromedriver version for 97.0.4692 google-chrome
+10/02/2022 07:02:46 PM - INFO - log - Driver [C:\Users\Bilal Hussain\.wdm\drivers\chromedriver\win32\97.0.4692.71\chromedriver.exe] found in cache
+10/02/2022 08:56:12 PM - INFO - log - 
+
+10/02/2022 08:56:12 PM - INFO - log - ====== WebDriver manager ======
+10/02/2022 08:56:12 PM - INFO - log - Current google-chrome version is 97.0.4692
+10/02/2022 08:56:12 PM - INFO - log - Get LATEST chromedriver version for 97.0.4692 google-chrome
+10/02/2022 08:56:13 PM - INFO - log - Driver [C:\Users\Bilal Hussain\.wdm\drivers\chromedriver\win32\97.0.4692.71\chromedriver.exe] found in cache
+10/02/2022 08:58:12 PM - INFO - log - 
+
+10/02/2022 08:58:12 PM - INFO - log - ====== WebDriver manager ======
+10/02/2022 08:58:12 PM - INFO - log - Current google-chrome version is 97.0.4692
+10/02/2022 08:58:12 PM - INFO - log - Get LATEST chromedriver version for 97.0.4692 google-chrome
+10/02/2022 08:58:13 PM - INFO - log - Driver [C:\Users\Bilal Hussain\.wdm\drivers\chromedriver\win32\97.0.4692.71\chromedriver.exe] found in cache
+10/02/2022 09:03:36 PM - INFO - log - 
+
+10/02/2022 09:03:36 PM - INFO - log - ====== WebDriver manager ======
+10/02/2022 09:03:36 PM - INFO - log - Current google-chrome version is 97.0.4692
+10/02/2022 09:03:36 PM - INFO - log - Get LATEST chromedriver version for 97.0.4692 google-chrome
+10/02/2022 09:03:37 PM - INFO - log - Driver [C:\Users\Bilal Hussain\.wdm\drivers\chromedriver\win32\97.0.4692.71\chromedriver.exe] found in cache
+10/02/2022 09:34:15 PM - INFO - log - 
+
+10/02/2022 09:34:15 PM - INFO - log - ====== WebDriver manager ======
+10/02/2022 09:34:15 PM - INFO - log - Current google-chrome version is 97.0.4692
+10/02/2022 09:34:15 PM - INFO - log - Get LATEST chromedriver version for 97.0.4692 google-chrome
+10/02/2022 09:34:15 PM - INFO - log - Driver [C:\Users\Bilal Hussain\.wdm\drivers\chromedriver\win32\97.0.4692.71\chromedriver.exe] found in cache
+10/02/2022 09:34:56 PM - INFO - log - 
+
+10/02/2022 09:34:56 PM - INFO - log - ====== WebDriver manager ======
+10/02/2022 09:34:56 PM - INFO - log - Current google-chrome version is 97.0.4692
+10/02/2022 09:34:56 PM - INFO - log - Get LATEST chromedriver version for 97.0.4692 google-chrome
+10/02/2022 09:34:56 PM - INFO - log - Driver [C:\Users\Bilal Hussain\.wdm\drivers\chromedriver\win32\97.0.4692.71\chromedriver.exe] found in cache
+10/02/2022 09:38:24 PM - INFO - log - 
+
+10/02/2022 09:38:24 PM - INFO - log - ====== WebDriver manager ======
+10/02/2022 09:38:24 PM - INFO - log - Current google-chrome version is 97.0.4692
+10/02/2022 09:38:24 PM - INFO - log - Get LATEST chromedriver version for 97.0.4692 google-chrome
+10/02/2022 09:38:24 PM - INFO - log - Driver [C:\Users\Bilal Hussain\.wdm\drivers\chromedriver\win32\97.0.4692.71\chromedriver.exe] found in cache
+10/02/2022 09:39:54 PM - INFO - log - 
+
+10/02/2022 09:39:54 PM - INFO - log - ====== WebDriver manager ======
+10/02/2022 09:39:54 PM - INFO - log - Current google-chrome version is 97.0.4692
+10/02/2022 09:39:54 PM - INFO - log - Get LATEST chromedriver version for 97.0.4692 google-chrome
+10/02/2022 09:39:54 PM - INFO - log - Driver [C:\Users\Bilal Hussain\.wdm\drivers\chromedriver\win32\97.0.4692.71\chromedriver.exe] found in cache
+11/02/2022 01:08:00 PM - INFO - log - 
+
+11/02/2022 01:08:00 PM - INFO - log - ====== WebDriver manager ======
+11/02/2022 01:08:00 PM - INFO - log - Current google-chrome version is 98.0.4758
+11/02/2022 01:08:00 PM - INFO - log - Get LATEST chromedriver version for 98.0.4758 google-chrome
+11/02/2022 01:08:01 PM - INFO - log - There is no [win32] chromedriver for browser  in cache
+11/02/2022 01:08:01 PM - INFO - log - Trying to download new driver from https://chromedriver.storage.googleapis.com/98.0.4758.80/chromedriver_win32.zip
+11/02/2022 01:08:07 PM - INFO - log - Driver has been saved in cache [C:\Users\Bilal Hussain\.wdm\drivers\chromedriver\win32\98.0.4758.80]
+11/02/2022 01:09:11 PM - INFO - log - 
+
+11/02/2022 01:09:11 PM - INFO - log - ====== WebDriver manager ======
+11/02/2022 01:09:11 PM - INFO - log - Current google-chrome version is 98.0.4758
+11/02/2022 01:09:11 PM - INFO - log - Get LATEST chromedriver version for 98.0.4758 google-chrome
+11/02/2022 01:09:12 PM - INFO - log - Driver [C:\Users\Bilal Hussain\.wdm\drivers\chromedriver\win32\98.0.4758.80\chromedriver.exe] found in cache
+11/02/2022 01:10:29 PM - INFO - log - 
+
+11/02/2022 01:10:29 PM - INFO - log - ====== WebDriver manager ======
+11/02/2022 01:10:29 PM - INFO - log - Current google-chrome version is 98.0.4758
+11/02/2022 01:10:29 PM - INFO - log - Get LATEST chromedriver version for 98.0.4758 google-chrome
+11/02/2022 01:10:30 PM - INFO - log - Driver [C:\Users\Bilal Hussain\.wdm\drivers\chromedriver\win32\98.0.4758.80\chromedriver.exe] found in cache
+11/02/2022 01:30:22 PM - INFO - log - 
+
+11/02/2022 01:30:22 PM - INFO - log - ====== WebDriver manager ======
+11/02/2022 01:30:22 PM - INFO - log - Current google-chrome version is 98.0.4758
+11/02/2022 01:30:22 PM - INFO - log - Get LATEST chromedriver version for 98.0.4758 google-chrome
+11/02/2022 01:30:22 PM - INFO - log - Driver [C:\Users\Bilal Hussain\.wdm\drivers\chromedriver\win32\98.0.4758.80\chromedriver.exe] found in cache
+11/02/2022 01:31:18 PM - INFO - log - 
+
+11/02/2022 01:31:18 PM - INFO - log - ====== WebDriver manager ======
+11/02/2022 01:31:18 PM - INFO - log - Current google-chrome version is 98.0.4758
+11/02/2022 01:31:18 PM - INFO - log - Get LATEST chromedriver version for 98.0.4758 google-chrome
+11/02/2022 01:31:18 PM - INFO - log - Driver [C:\Users\Bilal Hussain\.wdm\drivers\chromedriver\win32\98.0.4758.80\chromedriver.exe] found in cache
+11/02/2022 01:32:35 PM - INFO - log - 
+
+11/02/2022 01:32:35 PM - INFO - log - ====== WebDriver manager ======
+11/02/2022 01:32:35 PM - INFO - log - Current google-chrome version is 98.0.4758
+11/02/2022 01:32:35 PM - INFO - log - Get LATEST chromedriver version for 98.0.4758 google-chrome
+11/02/2022 01:32:36 PM - INFO - log - Driver [C:\Users\Bilal Hussain\.wdm\drivers\chromedriver\win32\98.0.4758.80\chromedriver.exe] found in cache
+11/02/2022 03:42:37 PM - INFO - log - 
+
+11/02/2022 03:42:37 PM - INFO - log - ====== WebDriver manager ======
+11/02/2022 03:42:37 PM - INFO - log - Current google-chrome version is 98.0.4758
+11/02/2022 03:42:37 PM - INFO - log - Get LATEST chromedriver version for 98.0.4758 google-chrome
+11/02/2022 03:42:38 PM - INFO - log - Driver [C:\Users\Bilal Hussain\.wdm\drivers\chromedriver\win32\98.0.4758.80\chromedriver.exe] found in cache
+11/02/2022 04:37:53 PM - INFO - log - 
+
+11/02/2022 04:37:53 PM - INFO - log - ====== WebDriver manager ======
+11/02/2022 04:37:53 PM - INFO - log - Current google-chrome version is 98.0.4758
+11/02/2022 04:37:53 PM - INFO - log - Get LATEST chromedriver version for 98.0.4758 google-chrome
+11/02/2022 04:37:54 PM - INFO - log - Driver [C:\Users\Bilal Hussain\.wdm\drivers\chromedriver\win32\98.0.4758.80\chromedriver.exe] found in cache
+11/02/2022 04:39:48 PM - INFO - log - 
+
+11/02/2022 04:39:48 PM - INFO - log - ====== WebDriver manager ======
+11/02/2022 04:39:48 PM - INFO - log - Current google-chrome version is 98.0.4758
+11/02/2022 04:39:48 PM - INFO - log - Get LATEST chromedriver version for 98.0.4758 google-chrome
+11/02/2022 04:39:48 PM - INFO - log - Driver [C:\Users\Bilal Hussain\.wdm\drivers\chromedriver\win32\98.0.4758.80\chromedriver.exe] found in cache
+11/02/2022 04:45:32 PM - INFO - log - 
+
+11/02/2022 04:45:32 PM - INFO - log - ====== WebDriver manager ======
+11/02/2022 04:45:32 PM - INFO - log - Current google-chrome version is 98.0.4758
+11/02/2022 04:45:32 PM - INFO - log - Get LATEST chromedriver version for 98.0.4758 google-chrome
+11/02/2022 04:45:33 PM - INFO - log - Driver [C:\Users\Bilal Hussain\.wdm\drivers\chromedriver\win32\98.0.4758.80\chromedriver.exe] found in cache
+11/02/2022 04:48:20 PM - INFO - log - 
+
+11/02/2022 04:48:20 PM - INFO - log - ====== WebDriver manager ======
+11/02/2022 04:48:20 PM - INFO - log - Current google-chrome version is 98.0.4758
+11/02/2022 04:48:20 PM - INFO - log - Get LATEST chromedriver version for 98.0.4758 google-chrome
+11/02/2022 04:48:20 PM - INFO - log - Driver [C:\Users\Bilal Hussain\.wdm\drivers\chromedriver\win32\98.0.4758.80\chromedriver.exe] found in cache
+11/02/2022 04:49:04 PM - INFO - log - 
+
+11/02/2022 04:49:04 PM - INFO - log - ====== WebDriver manager ======
+11/02/2022 04:49:04 PM - INFO - log - Current google-chrome version is 98.0.4758
+11/02/2022 04:49:04 PM - INFO - log - Get LATEST chromedriver version for 98.0.4758 google-chrome
+11/02/2022 04:49:05 PM - INFO - log - Driver [C:\Users\Bilal Hussain\.wdm\drivers\chromedriver\win32\98.0.4758.80\chromedriver.exe] found in cache
+11/02/2022 04:50:37 PM - INFO - log - 
+
+11/02/2022 04:50:37 PM - INFO - log - ====== WebDriver manager ======
+11/02/2022 04:50:37 PM - INFO - log - Current google-chrome version is 98.0.4758
+11/02/2022 04:50:37 PM - INFO - log - Get LATEST chromedriver version for 98.0.4758 google-chrome
+11/02/2022 04:50:38 PM - INFO - log - Driver [C:\Users\Bilal Hussain\.wdm\drivers\chromedriver\win32\98.0.4758.80\chromedriver.exe] found in cache
+11/02/2022 04:54:05 PM - INFO - log - 
+
+11/02/2022 04:54:05 PM - INFO - log - ====== WebDriver manager ======
+11/02/2022 04:54:05 PM - INFO - log - Current google-chrome version is 98.0.4758
+11/02/2022 04:54:05 PM - INFO - log - Get LATEST chromedriver version for 98.0.4758 google-chrome
+11/02/2022 04:54:05 PM - INFO - log - Driver [C:\Users\Bilal Hussain\.wdm\drivers\chromedriver\win32\98.0.4758.80\chromedriver.exe] found in cache
+11/02/2022 04:55:12 PM - INFO - log - 
+
+11/02/2022 04:55:12 PM - INFO - log - ====== WebDriver manager ======
+11/02/2022 04:55:12 PM - INFO - log - Current google-chrome version is 98.0.4758
+11/02/2022 04:55:12 PM - INFO - log - Get LATEST chromedriver version for 98.0.4758 google-chrome
+11/02/2022 04:55:12 PM - INFO - log - Driver [C:\Users\Bilal Hussain\.wdm\drivers\chromedriver\win32\98.0.4758.80\chromedriver.exe] found in cache
+11/02/2022 05:08:26 PM - INFO - log - 
+
+11/02/2022 05:08:26 PM - INFO - log - ====== WebDriver manager ======
+11/02/2022 05:08:26 PM - INFO - log - Current google-chrome version is 98.0.4758
+11/02/2022 05:08:26 PM - INFO - log - Get LATEST chromedriver version for 98.0.4758 google-chrome
+11/02/2022 05:08:27 PM - INFO - log - Driver [C:\Users\Bilal Hussain\.wdm\drivers\chromedriver\win32\98.0.4758.80\chromedriver.exe] found in cache
+11/02/2022 07:50:56 PM - INFO - log - 
+
+11/02/2022 07:50:56 PM - INFO - log - ====== WebDriver manager ======
+11/02/2022 07:50:56 PM - INFO - log - Current google-chrome version is 98.0.4758
+11/02/2022 07:50:56 PM - INFO - log - Get LATEST chromedriver version for 98.0.4758 google-chrome
+11/02/2022 07:50:57 PM - INFO - log - Driver [C:\Users\Bilal Hussain\.wdm\drivers\chromedriver\win32\98.0.4758.80\chromedriver.exe] found in cache
+11/02/2022 07:51:40 PM - INFO - log - 
+
+11/02/2022 07:51:40 PM - INFO - log - ====== WebDriver manager ======
+11/02/2022 07:51:40 PM - INFO - log - Current google-chrome version is 98.0.4758
+11/02/2022 07:51:40 PM - INFO - log - Get LATEST chromedriver version for 98.0.4758 google-chrome
+11/02/2022 07:51:40 PM - INFO - log - Driver [C:\Users\Bilal Hussain\.wdm\drivers\chromedriver\win32\98.0.4758.80\chromedriver.exe] found in cache
+11/02/2022 07:52:22 PM - INFO - log - 
+
+11/02/2022 07:52:22 PM - INFO - log - ====== WebDriver manager ======
+11/02/2022 07:52:22 PM - INFO - log - Current google-chrome version is 98.0.4758
+11/02/2022 07:52:22 PM - INFO - log - Get LATEST chromedriver version for 98.0.4758 google-chrome
+11/02/2022 07:52:23 PM - INFO - log - Driver [C:\Users\Bilal Hussain\.wdm\drivers\chromedriver\win32\98.0.4758.80\chromedriver.exe] found in cache
+11/02/2022 07:58:09 PM - INFO - log - 
+
+11/02/2022 07:58:09 PM - INFO - log - ====== WebDriver manager ======
+11/02/2022 07:58:09 PM - INFO - log - Current google-chrome version is 98.0.4758
+11/02/2022 07:58:09 PM - INFO - log - Get LATEST chromedriver version for 98.0.4758 google-chrome
+11/02/2022 07:58:10 PM - INFO - log - Driver [C:\Users\Bilal Hussain\.wdm\drivers\chromedriver\win32\98.0.4758.80\chromedriver.exe] found in cache
+11/02/2022 07:59:06 PM - INFO - log - 
+
+11/02/2022 07:59:06 PM - INFO - log - ====== WebDriver manager ======
+11/02/2022 07:59:06 PM - INFO - log - Current google-chrome version is 98.0.4758
+11/02/2022 07:59:06 PM - INFO - log - Get LATEST chromedriver version for 98.0.4758 google-chrome
+11/02/2022 07:59:06 PM - INFO - log - Driver [C:\Users\Bilal Hussain\.wdm\drivers\chromedriver\win32\98.0.4758.80\chromedriver.exe] found in cache
+11/02/2022 08:04:15 PM - INFO - log - 
+
+11/02/2022 08:04:15 PM - INFO - log - ====== WebDriver manager ======
+11/02/2022 08:04:15 PM - INFO - log - Current google-chrome version is 98.0.4758
+11/02/2022 08:04:15 PM - INFO - log - Get LATEST chromedriver version for 98.0.4758 google-chrome
+11/02/2022 08:04:16 PM - INFO - log - Driver [C:\Users\Bilal Hussain\.wdm\drivers\chromedriver\win32\98.0.4758.80\chromedriver.exe] found in cache
+11/02/2022 08:05:10 PM - INFO - log - 
+
+11/02/2022 08:05:10 PM - INFO - log - ====== WebDriver manager ======
+11/02/2022 08:05:10 PM - INFO - log - Current google-chrome version is 98.0.4758
+11/02/2022 08:05:10 PM - INFO - log - Get LATEST chromedriver version for 98.0.4758 google-chrome
+11/02/2022 08:05:10 PM - INFO - log - Driver [C:\Users\Bilal Hussain\.wdm\drivers\chromedriver\win32\98.0.4758.80\chromedriver.exe] found in cache
+11/02/2022 08:07:51 PM - INFO - log - 
+
+11/02/2022 08:07:51 PM - INFO - log - ====== WebDriver manager ======
+11/02/2022 08:07:51 PM - INFO - log - Current google-chrome version is 98.0.4758
+11/02/2022 08:07:51 PM - INFO - log - Get LATEST chromedriver version for 98.0.4758 google-chrome
+11/02/2022 08:07:51 PM - INFO - log - Driver [C:\Users\Bilal Hussain\.wdm\drivers\chromedriver\win32\98.0.4758.80\chromedriver.exe] found in cache
+11/02/2022 08:19:58 PM - INFO - log - 
+
+11/02/2022 08:19:58 PM - INFO - log - ====== WebDriver manager ======
+11/02/2022 08:19:59 PM - INFO - log - Current google-chrome version is 98.0.4758
+11/02/2022 08:19:59 PM - INFO - log - Get LATEST chromedriver version for 98.0.4758 google-chrome
+11/02/2022 08:19:59 PM - INFO - log - Driver [C:\Users\Bilal Hussain\.wdm\drivers\chromedriver\win32\98.0.4758.80\chromedriver.exe] found in cache
+11/02/2022 08:23:35 PM - INFO - log - 
+
+11/02/2022 08:23:35 PM - INFO - log - ====== WebDriver manager ======
+11/02/2022 08:23:35 PM - INFO - log - Current google-chrome version is 98.0.4758
+11/02/2022 08:23:35 PM - INFO - log - Get LATEST chromedriver version for 98.0.4758 google-chrome
+11/02/2022 08:23:35 PM - INFO - log - Driver [C:\Users\Bilal Hussain\.wdm\drivers\chromedriver\win32\98.0.4758.80\chromedriver.exe] found in cache
+11/02/2022 08:28:12 PM - INFO - log - 
+
+11/02/2022 08:28:12 PM - INFO - log - ====== WebDriver manager ======
+11/02/2022 08:28:12 PM - INFO - log - Current google-chrome version is 98.0.4758
+11/02/2022 08:28:12 PM - INFO - log - Get LATEST chromedriver version for 98.0.4758 google-chrome
+11/02/2022 08:28:12 PM - INFO - log - Driver [C:\Users\Bilal Hussain\.wdm\drivers\chromedriver\win32\98.0.4758.80\chromedriver.exe] found in cache
+11/02/2022 08:39:13 PM - INFO - log - 
+
+11/02/2022 08:39:13 PM - INFO - log - ====== WebDriver manager ======
+11/02/2022 08:39:13 PM - INFO - log - Current google-chrome version is 98.0.4758
+11/02/2022 08:39:13 PM - INFO - log - Get LATEST chromedriver version for 98.0.4758 google-chrome
+11/02/2022 08:39:13 PM - INFO - log - Driver [C:\Users\Bilal Hussain\.wdm\drivers\chromedriver\win32\98.0.4758.80\chromedriver.exe] found in cache
+11/02/2022 08:40:22 PM - INFO - log - 
+
+11/02/2022 08:40:22 PM - INFO - log - ====== WebDriver manager ======
+11/02/2022 08:40:22 PM - INFO - log - Current google-chrome version is 98.0.4758
+11/02/2022 08:40:22 PM - INFO - log - Get LATEST chromedriver version for 98.0.4758 google-chrome
+11/02/2022 08:40:22 PM - INFO - log - Driver [C:\Users\Bilal Hussain\.wdm\drivers\chromedriver\win32\98.0.4758.80\chromedriver.exe] found in cache
+11/02/2022 08:47:44 PM - INFO - log - 
+
+11/02/2022 08:47:44 PM - INFO - log - ====== WebDriver manager ======
+11/02/2022 08:47:44 PM - INFO - log - Current google-chrome version is 98.0.4758
+11/02/2022 08:47:44 PM - INFO - log - Get LATEST chromedriver version for 98.0.4758 google-chrome
+11/02/2022 08:47:44 PM - INFO - log - Driver [C:\Users\Bilal Hussain\.wdm\drivers\chromedriver\win32\98.0.4758.80\chromedriver.exe] found in cache
+11/02/2022 08:48:42 PM - INFO - log - 
+
+11/02/2022 08:48:42 PM - INFO - log - ====== WebDriver manager ======
+11/02/2022 08:48:42 PM - INFO - log - Current google-chrome version is 98.0.4758
+11/02/2022 08:48:42 PM - INFO - log - Get LATEST chromedriver version for 98.0.4758 google-chrome
+11/02/2022 08:48:42 PM - INFO - log - Driver [C:\Users\Bilal Hussain\.wdm\drivers\chromedriver\win32\98.0.4758.80\chromedriver.exe] found in cache
+11/02/2022 08:49:50 PM - INFO - log - 
+
+11/02/2022 08:49:50 PM - INFO - log - ====== WebDriver manager ======
+11/02/2022 08:49:50 PM - INFO - log - Current google-chrome version is 98.0.4758
+11/02/2022 08:49:50 PM - INFO - log - Get LATEST chromedriver version for 98.0.4758 google-chrome
+11/02/2022 08:49:50 PM - INFO - log - Driver [C:\Users\Bilal Hussain\.wdm\drivers\chromedriver\win32\98.0.4758.80\chromedriver.exe] found in cache
+11/02/2022 08:51:06 PM - INFO - log - 
+
+11/02/2022 08:51:06 PM - INFO - log - ====== WebDriver manager ======
+11/02/2022 08:51:06 PM - INFO - log - Current google-chrome version is 98.0.4758
+11/02/2022 08:51:06 PM - INFO - log - Get LATEST chromedriver version for 98.0.4758 google-chrome
+11/02/2022 08:51:07 PM - INFO - log - Driver [C:\Users\Bilal Hussain\.wdm\drivers\chromedriver\win32\98.0.4758.80\chromedriver.exe] found in cache
+11/02/2022 08:53:14 PM - INFO - log - 
+
+11/02/2022 08:53:14 PM - INFO - log - ====== WebDriver manager ======
+11/02/2022 08:53:14 PM - INFO - log - Current google-chrome version is 98.0.4758
+11/02/2022 08:53:14 PM - INFO - log - Get LATEST chromedriver version for 98.0.4758 google-chrome
+11/02/2022 08:53:14 PM - INFO - log - Driver [C:\Users\Bilal Hussain\.wdm\drivers\chromedriver\win32\98.0.4758.80\chromedriver.exe] found in cache
+11/02/2022 08:54:33 PM - INFO - log - 
+
+11/02/2022 08:54:33 PM - INFO - log - ====== WebDriver manager ======
+11/02/2022 08:54:33 PM - INFO - log - Current google-chrome version is 98.0.4758
+11/02/2022 08:54:33 PM - INFO - log - Get LATEST chromedriver version for 98.0.4758 google-chrome
+11/02/2022 08:54:33 PM - INFO - log - Driver [C:\Users\Bilal Hussain\.wdm\drivers\chromedriver\win32\98.0.4758.80\chromedriver.exe] found in cache
+11/02/2022 09:02:33 PM - INFO - log - 
+
+11/02/2022 09:02:33 PM - INFO - log - ====== WebDriver manager ======
+11/02/2022 09:02:33 PM - INFO - log - Current google-chrome version is 98.0.4758
+11/02/2022 09:02:33 PM - INFO - log - Get LATEST chromedriver version for 98.0.4758 google-chrome
+11/02/2022 09:02:33 PM - INFO - log - Driver [C:\Users\Bilal Hussain\.wdm\drivers\chromedriver\win32\98.0.4758.80\chromedriver.exe] found in cache
+11/02/2022 09:03:40 PM - INFO - log - 
+
+11/02/2022 09:03:40 PM - INFO - log - ====== WebDriver manager ======
+11/02/2022 09:03:40 PM - INFO - log - Current google-chrome version is 98.0.4758
+11/02/2022 09:03:40 PM - INFO - log - Get LATEST chromedriver version for 98.0.4758 google-chrome
+11/02/2022 09:03:41 PM - INFO - log - Driver [C:\Users\Bilal Hussain\.wdm\drivers\chromedriver\win32\98.0.4758.80\chromedriver.exe] found in cache
+11/02/2022 09:22:12 PM - INFO - log - 
+
+11/02/2022 09:22:12 PM - INFO - log - ====== WebDriver manager ======
+11/02/2022 09:22:12 PM - INFO - log - Current google-chrome version is 98.0.4758
+11/02/2022 09:22:12 PM - INFO - log - Get LATEST chromedriver version for 98.0.4758 google-chrome
+11/02/2022 09:22:13 PM - INFO - log - Driver [C:\Users\Bilal Hussain\.wdm\drivers\chromedriver\win32\98.0.4758.80\chromedriver.exe] found in cache
+11/02/2022 09:35:15 PM - INFO - log - 
+
+11/02/2022 09:35:15 PM - INFO - log - ====== WebDriver manager ======
+11/02/2022 09:35:15 PM - INFO - log - Current google-chrome version is 98.0.4758
+11/02/2022 09:35:15 PM - INFO - log - Get LATEST chromedriver version for 98.0.4758 google-chrome
+11/02/2022 09:35:16 PM - INFO - log - Driver [C:\Users\Bilal Hussain\.wdm\drivers\chromedriver\win32\98.0.4758.80\chromedriver.exe] found in cache
+11/02/2022 09:37:12 PM - INFO - log - 
+
+11/02/2022 09:37:12 PM - INFO - log - ====== WebDriver manager ======
+11/02/2022 09:37:12 PM - INFO - log - Current google-chrome version is 98.0.4758
+11/02/2022 09:37:12 PM - INFO - log - Get LATEST chromedriver version for 98.0.4758 google-chrome
+11/02/2022 09:37:12 PM - INFO - log - Driver [C:\Users\Bilal Hussain\.wdm\drivers\chromedriver\win32\98.0.4758.80\chromedriver.exe] found in cache
+11/02/2022 09:38:26 PM - INFO - log - 
+
+11/02/2022 09:38:26 PM - INFO - log - ====== WebDriver manager ======
+11/02/2022 09:38:26 PM - INFO - log - Current google-chrome version is 98.0.4758
+11/02/2022 09:38:26 PM - INFO - log - Get LATEST chromedriver version for 98.0.4758 google-chrome
+11/02/2022 09:38:27 PM - INFO - log - Driver [C:\Users\Bilal Hussain\.wdm\drivers\chromedriver\win32\98.0.4758.80\chromedriver.exe] found in cache
+11/02/2022 10:22:26 PM - INFO - log - 
+
+11/02/2022 10:22:26 PM - INFO - log - ====== WebDriver manager ======
+11/02/2022 10:22:26 PM - INFO - log - Current google-chrome version is 98.0.4758
+11/02/2022 10:22:26 PM - INFO - log - Get LATEST chromedriver version for 98.0.4758 google-chrome
+11/02/2022 10:22:26 PM - INFO - log - Driver [C:\Users\Bilal Hussain\.wdm\drivers\chromedriver\win32\98.0.4758.80\chromedriver.exe] found in cache
+11/02/2022 10:24:25 PM - INFO - log - 
+
+11/02/2022 10:24:25 PM - INFO - log - ====== WebDriver manager ======
+11/02/2022 10:24:25 PM - INFO - log - Current google-chrome version is 98.0.4758
+11/02/2022 10:24:25 PM - INFO - log - Get LATEST chromedriver version for 98.0.4758 google-chrome
+11/02/2022 10:24:25 PM - INFO - log - Driver [C:\Users\Bilal Hussain\.wdm\drivers\chromedriver\win32\98.0.4758.80\chromedriver.exe] found in cache
+11/02/2022 10:28:24 PM - INFO - log - 
+
+11/02/2022 10:28:24 PM - INFO - log - ====== WebDriver manager ======
+11/02/2022 10:28:24 PM - INFO - log - Current google-chrome version is 98.0.4758
+11/02/2022 10:28:24 PM - INFO - log - Get LATEST chromedriver version for 98.0.4758 google-chrome
+11/02/2022 10:28:24 PM - INFO - log - Driver [C:\Users\Bilal Hussain\.wdm\drivers\chromedriver\win32\98.0.4758.80\chromedriver.exe] found in cache
+11/02/2022 10:29:16 PM - INFO - log - 
+
+11/02/2022 10:29:16 PM - INFO - log - ====== WebDriver manager ======
+11/02/2022 10:29:16 PM - INFO - log - Current google-chrome version is 98.0.4758
+11/02/2022 10:29:16 PM - INFO - log - Get LATEST chromedriver version for 98.0.4758 google-chrome
+11/02/2022 10:29:17 PM - INFO - log - Driver [C:\Users\Bilal Hussain\.wdm\drivers\chromedriver\win32\98.0.4758.80\chromedriver.exe] found in cache
+11/02/2022 10:30:36 PM - INFO - log - 
+
+11/02/2022 10:30:36 PM - INFO - log - ====== WebDriver manager ======
+11/02/2022 10:30:36 PM - INFO - log - Current google-chrome version is 98.0.4758
+11/02/2022 10:30:36 PM - INFO - log - Get LATEST chromedriver version for 98.0.4758 google-chrome
+11/02/2022 10:30:36 PM - INFO - log - Driver [C:\Users\Bilal Hussain\.wdm\drivers\chromedriver\win32\98.0.4758.80\chromedriver.exe] found in cache
+11/02/2022 10:34:37 PM - INFO - log - 
+
+11/02/2022 10:34:37 PM - INFO - log - ====== WebDriver manager ======
+11/02/2022 10:34:37 PM - INFO - log - Current google-chrome version is 98.0.4758
+11/02/2022 10:34:37 PM - INFO - log - Get LATEST chromedriver version for 98.0.4758 google-chrome
+11/02/2022 10:34:37 PM - INFO - log - Driver [C:\Users\Bilal Hussain\.wdm\drivers\chromedriver\win32\98.0.4758.80\chromedriver.exe] found in cache
+11/02/2022 10:36:04 PM - INFO - log - 
+
+11/02/2022 10:36:04 PM - INFO - log - ====== WebDriver manager ======
+11/02/2022 10:36:04 PM - INFO - log - Current google-chrome version is 98.0.4758
+11/02/2022 10:36:04 PM - INFO - log - Get LATEST chromedriver version for 98.0.4758 google-chrome
+11/02/2022 10:36:04 PM - INFO - log - Driver [C:\Users\Bilal Hussain\.wdm\drivers\chromedriver\win32\98.0.4758.80\chromedriver.exe] found in cache
+11/02/2022 10:38:13 PM - INFO - log - 
+
+11/02/2022 10:38:13 PM - INFO - log - ====== WebDriver manager ======
+11/02/2022 10:38:13 PM - INFO - log - Current google-chrome version is 98.0.4758
+11/02/2022 10:38:13 PM - INFO - log - Get LATEST chromedriver version for 98.0.4758 google-chrome
+11/02/2022 10:38:14 PM - INFO - log - Driver [C:\Users\Bilal Hussain\.wdm\drivers\chromedriver\win32\98.0.4758.80\chromedriver.exe] found in cache
+11/02/2022 10:39:06 PM - INFO - log - 
+
+11/02/2022 10:39:06 PM - INFO - log - ====== WebDriver manager ======
+11/02/2022 10:39:06 PM - INFO - log - Current google-chrome version is 98.0.4758
+11/02/2022 10:39:06 PM - INFO - log - Get LATEST chromedriver version for 98.0.4758 google-chrome
+11/02/2022 10:39:07 PM - INFO - log - Driver [C:\Users\Bilal Hussain\.wdm\drivers\chromedriver\win32\98.0.4758.80\chromedriver.exe] found in cache
+11/02/2022 10:43:30 PM - INFO - log - 
+
+11/02/2022 10:43:30 PM - INFO - log - ====== WebDriver manager ======
+11/02/2022 10:43:30 PM - INFO - log - Current google-chrome version is 98.0.4758
+11/02/2022 10:43:30 PM - INFO - log - Get LATEST chromedriver version for 98.0.4758 google-chrome
+11/02/2022 10:43:31 PM - INFO - log - Driver [C:\Users\Bilal Hussain\.wdm\drivers\chromedriver\win32\98.0.4758.80\chromedriver.exe] found in cache
+14/02/2022 05:02:49 PM - INFO - log - 
+
+14/02/2022 05:02:49 PM - INFO - log - ====== WebDriver manager ======
+14/02/2022 05:02:49 PM - INFO - log - Current google-chrome version is 98.0.4758
+14/02/2022 05:02:49 PM - INFO - log - Get LATEST chromedriver version for 98.0.4758 google-chrome
+14/02/2022 05:02:49 PM - INFO - log - Trying to download new driver from https://chromedriver.storage.googleapis.com/98.0.4758.80/chromedriver_win32.zip
+14/02/2022 05:02:52 PM - INFO - log - Driver has been saved in cache [C:\Users\Bilal Hussain\.wdm\drivers\chromedriver\win32\98.0.4758.80]
+14/02/2022 05:03:32 PM - INFO - log - 
+
+14/02/2022 05:03:32 PM - INFO - log - ====== WebDriver manager ======
+14/02/2022 05:03:32 PM - INFO - log - Current google-chrome version is 98.0.4758
+14/02/2022 05:03:32 PM - INFO - log - Get LATEST chromedriver version for 98.0.4758 google-chrome
+14/02/2022 05:03:32 PM - INFO - log - Driver [C:\Users\Bilal Hussain\.wdm\drivers\chromedriver\win32\98.0.4758.80\chromedriver.exe] found in cache
+14/02/2022 05:04:31 PM - INFO - log - 
+
+14/02/2022 05:04:31 PM - INFO - log - ====== WebDriver manager ======
+14/02/2022 05:04:31 PM - INFO - log - Current google-chrome version is 98.0.4758
+14/02/2022 05:04:31 PM - INFO - log - Get LATEST chromedriver version for 98.0.4758 google-chrome
+14/02/2022 05:04:31 PM - INFO - log - Driver [C:\Users\Bilal Hussain\.wdm\drivers\chromedriver\win32\98.0.4758.80\chromedriver.exe] found in cache
+14/02/2022 05:07:18 PM - INFO - log - 
+
+14/02/2022 05:07:18 PM - INFO - log - ====== WebDriver manager ======
+14/02/2022 05:07:18 PM - INFO - log - Current google-chrome version is 98.0.4758
+14/02/2022 05:07:18 PM - INFO - log - Get LATEST chromedriver version for 98.0.4758 google-chrome
+14/02/2022 05:07:19 PM - INFO - log - Driver [C:\Users\Bilal Hussain\.wdm\drivers\chromedriver\win32\98.0.4758.80\chromedriver.exe] found in cache
+14/02/2022 05:08:55 PM - INFO - log - 
+
+14/02/2022 05:08:55 PM - INFO - log - ====== WebDriver manager ======
+14/02/2022 05:08:55 PM - INFO - log - Current google-chrome version is 98.0.4758
+14/02/2022 05:08:55 PM - INFO - log - Get LATEST chromedriver version for 98.0.4758 google-chrome
+14/02/2022 05:08:55 PM - INFO - log - Driver [C:\Users\Bilal Hussain\.wdm\drivers\chromedriver\win32\98.0.4758.80\chromedriver.exe] found in cache
+14/02/2022 05:22:21 PM - INFO - log - 
+
+14/02/2022 05:22:21 PM - INFO - log - ====== WebDriver manager ======
+14/02/2022 05:22:21 PM - INFO - log - Current google-chrome version is 98.0.4758
+14/02/2022 05:22:21 PM - INFO - log - Get LATEST chromedriver version for 98.0.4758 google-chrome
+14/02/2022 05:22:22 PM - INFO - log - Driver [C:\Users\Bilal Hussain\.wdm\drivers\chromedriver\win32\98.0.4758.80\chromedriver.exe] found in cache
+14/02/2022 05:24:01 PM - INFO - log - 
+
+14/02/2022 05:24:01 PM - INFO - log - ====== WebDriver manager ======
+14/02/2022 05:24:01 PM - INFO - log - Current google-chrome version is 98.0.4758
+14/02/2022 05:24:01 PM - INFO - log - Get LATEST chromedriver version for 98.0.4758 google-chrome
+14/02/2022 05:24:01 PM - INFO - log - Driver [C:\Users\Bilal Hussain\.wdm\drivers\chromedriver\win32\98.0.4758.80\chromedriver.exe] found in cache
+14/02/2022 05:24:09 PM - INFO - log - 
+
+14/02/2022 05:24:09 PM - INFO - log - ====== WebDriver manager ======
+14/02/2022 05:24:10 PM - INFO - log - Current google-chrome version is 98.0.4758
+14/02/2022 05:24:10 PM - INFO - log - Get LATEST chromedriver version for 98.0.4758 google-chrome
+14/02/2022 05:24:10 PM - INFO - log - Driver [C:\Users\Bilal Hussain\.wdm\drivers\chromedriver\win32\98.0.4758.80\chromedriver.exe] found in cache
+14/02/2022 05:24:22 PM - INFO - log - 
+
+14/02/2022 05:24:22 PM - INFO - log - ====== WebDriver manager ======
+14/02/2022 05:24:22 PM - INFO - log - Current google-chrome version is 98.0.4758
+14/02/2022 05:24:22 PM - INFO - log - Get LATEST chromedriver version for 98.0.4758 google-chrome
+14/02/2022 05:24:22 PM - INFO - log - Driver [C:\Users\Bilal Hussain\.wdm\drivers\chromedriver\win32\98.0.4758.80\chromedriver.exe] found in cache
+14/02/2022 05:25:04 PM - INFO - log - 
+
+14/02/2022 05:25:04 PM - INFO - log - ====== WebDriver manager ======
+14/02/2022 05:25:04 PM - INFO - log - Current google-chrome version is 98.0.4758
+14/02/2022 05:25:04 PM - INFO - log - Get LATEST chromedriver version for 98.0.4758 google-chrome
+14/02/2022 05:25:04 PM - INFO - log - Driver [C:\Users\Bilal Hussain\.wdm\drivers\chromedriver\win32\98.0.4758.80\chromedriver.exe] found in cache
+14/02/2022 05:28:59 PM - INFO - log - 
+
+14/02/2022 05:28:59 PM - INFO - log - ====== WebDriver manager ======
+14/02/2022 05:28:59 PM - INFO - log - Current google-chrome version is 98.0.4758
+14/02/2022 05:28:59 PM - INFO - log - Get LATEST chromedriver version for 98.0.4758 google-chrome
+14/02/2022 05:28:59 PM - INFO - log - Driver [C:\Users\Bilal Hussain\.wdm\drivers\chromedriver\win32\98.0.4758.80\chromedriver.exe] found in cache
+14/02/2022 05:29:35 PM - INFO - log - 
+
+14/02/2022 05:29:35 PM - INFO - log - ====== WebDriver manager ======
+14/02/2022 05:29:35 PM - INFO - log - Current google-chrome version is 98.0.4758
+14/02/2022 05:29:35 PM - INFO - log - Get LATEST chromedriver version for 98.0.4758 google-chrome
+14/02/2022 05:29:35 PM - INFO - log - Driver [C:\Users\Bilal Hussain\.wdm\drivers\chromedriver\win32\98.0.4758.80\chromedriver.exe] found in cache
+14/02/2022 05:30:20 PM - INFO - log - 
+
+14/02/2022 05:30:20 PM - INFO - log - ====== WebDriver manager ======
+14/02/2022 05:30:20 PM - INFO - log - Current google-chrome version is 98.0.4758
+14/02/2022 05:30:20 PM - INFO - log - Get LATEST chromedriver version for 98.0.4758 google-chrome
+14/02/2022 05:30:21 PM - INFO - log - Driver [C:\Users\Bilal Hussain\.wdm\drivers\chromedriver\win32\98.0.4758.80\chromedriver.exe] found in cache
+14/02/2022 05:46:30 PM - INFO - log - 
+
+14/02/2022 05:46:30 PM - INFO - log - ====== WebDriver manager ======
+14/02/2022 05:46:30 PM - INFO - log - Current google-chrome version is 98.0.4758
+14/02/2022 05:46:30 PM - INFO - log - Get LATEST chromedriver version for 98.0.4758 google-chrome
+14/02/2022 05:46:30 PM - INFO - log - Driver [C:\Users\Bilal Hussain\.wdm\drivers\chromedriver\win32\98.0.4758.80\chromedriver.exe] found in cache
+14/02/2022 05:48:43 PM - INFO - log - 
+
+14/02/2022 05:48:43 PM - INFO - log - ====== WebDriver manager ======
+14/02/2022 05:48:43 PM - INFO - log - Current google-chrome version is 98.0.4758
+14/02/2022 05:48:43 PM - INFO - log - Get LATEST chromedriver version for 98.0.4758 google-chrome
+14/02/2022 05:48:43 PM - INFO - log - Driver [C:\Users\Bilal Hussain\.wdm\drivers\chromedriver\win32\98.0.4758.80\chromedriver.exe] found in cache
+14/02/2022 05:49:54 PM - INFO - log - 
+
+14/02/2022 05:49:54 PM - INFO - log - ====== WebDriver manager ======
+14/02/2022 05:49:54 PM - INFO - log - Current google-chrome version is 98.0.4758
+14/02/2022 05:49:54 PM - INFO - log - Get LATEST chromedriver version for 98.0.4758 google-chrome
+14/02/2022 05:49:54 PM - INFO - log - Driver [C:\Users\Bilal Hussain\.wdm\drivers\chromedriver\win32\98.0.4758.80\chromedriver.exe] found in cache
+14/02/2022 05:50:33 PM - INFO - log - 
+
+14/02/2022 05:50:33 PM - INFO - log - ====== WebDriver manager ======
+14/02/2022 05:50:33 PM - INFO - log - Current google-chrome version is 98.0.4758
+14/02/2022 05:50:33 PM - INFO - log - Get LATEST chromedriver version for 98.0.4758 google-chrome
+14/02/2022 05:50:33 PM - INFO - log - Driver [C:\Users\Bilal Hussain\.wdm\drivers\chromedriver\win32\98.0.4758.80\chromedriver.exe] found in cache
+14/02/2022 05:55:30 PM - INFO - log - 
+
+14/02/2022 05:55:30 PM - INFO - log - ====== WebDriver manager ======
+14/02/2022 05:55:30 PM - INFO - log - Current google-chrome version is 98.0.4758
+14/02/2022 05:55:30 PM - INFO - log - Get LATEST chromedriver version for 98.0.4758 google-chrome
+14/02/2022 05:55:31 PM - INFO - log - Driver [C:\Users\Bilal Hussain\.wdm\drivers\chromedriver\win32\98.0.4758.80\chromedriver.exe] found in cache
+14/02/2022 06:12:03 PM - INFO - log - 
+
+14/02/2022 06:12:03 PM - INFO - log - ====== WebDriver manager ======
+14/02/2022 06:12:03 PM - INFO - log - Current google-chrome version is 98.0.4758
+14/02/2022 06:12:03 PM - INFO - log - Get LATEST chromedriver version for 98.0.4758 google-chrome
+14/02/2022 06:12:03 PM - INFO - log - Driver [C:\Users\Bilal Hussain\.wdm\drivers\chromedriver\win32\98.0.4758.80\chromedriver.exe] found in cache
+14/02/2022 06:15:24 PM - INFO - log - 
+
+14/02/2022 06:15:24 PM - INFO - log - ====== WebDriver manager ======
+14/02/2022 06:15:24 PM - INFO - log - Current google-chrome version is 98.0.4758
+14/02/2022 06:15:24 PM - INFO - log - Get LATEST chromedriver version for 98.0.4758 google-chrome
+14/02/2022 06:15:24 PM - INFO - log - Driver [C:\Users\Bilal Hussain\.wdm\drivers\chromedriver\win32\98.0.4758.80\chromedriver.exe] found in cache
+14/02/2022 06:17:05 PM - INFO - log - 
+
+14/02/2022 06:17:05 PM - INFO - log - ====== WebDriver manager ======
+14/02/2022 06:17:05 PM - INFO - log - Current google-chrome version is 98.0.4758
+14/02/2022 06:17:05 PM - INFO - log - Get LATEST chromedriver version for 98.0.4758 google-chrome
+14/02/2022 06:17:06 PM - INFO - log - Driver [C:\Users\Bilal Hussain\.wdm\drivers\chromedriver\win32\98.0.4758.80\chromedriver.exe] found in cache
+14/02/2022 06:20:39 PM - INFO - log - 
+
+14/02/2022 06:20:39 PM - INFO - log - ====== WebDriver manager ======
+14/02/2022 06:20:39 PM - INFO - log - Current google-chrome version is 98.0.4758
+14/02/2022 06:20:39 PM - INFO - log - Get LATEST chromedriver version for 98.0.4758 google-chrome
+14/02/2022 06:20:39 PM - INFO - log - Driver [C:\Users\Bilal Hussain\.wdm\drivers\chromedriver\win32\98.0.4758.80\chromedriver.exe] found in cache
+14/02/2022 06:29:47 PM - INFO - log - 
+
+14/02/2022 06:29:47 PM - INFO - log - ====== WebDriver manager ======
+14/02/2022 06:29:47 PM - INFO - log - Current google-chrome version is 98.0.4758
+14/02/2022 06:29:47 PM - INFO - log - Get LATEST chromedriver version for 98.0.4758 google-chrome
+14/02/2022 06:29:47 PM - INFO - log - Driver [C:\Users\Bilal Hussain\.wdm\drivers\chromedriver\win32\98.0.4758.80\chromedriver.exe] found in cache
+14/02/2022 06:30:16 PM - INFO - log - 
+
+14/02/2022 06:30:16 PM - INFO - log - ====== WebDriver manager ======
+14/02/2022 06:30:16 PM - INFO - log - Current google-chrome version is 98.0.4758
+14/02/2022 06:30:16 PM - INFO - log - Get LATEST chromedriver version for 98.0.4758 google-chrome
+14/02/2022 06:30:17 PM - INFO - log - Driver [C:\Users\Bilal Hussain\.wdm\drivers\chromedriver\win32\98.0.4758.80\chromedriver.exe] found in cache
+14/02/2022 06:36:09 PM - INFO - log - 
+
+14/02/2022 06:36:09 PM - INFO - log - ====== WebDriver manager ======
+14/02/2022 06:36:09 PM - INFO - log - Current google-chrome version is 98.0.4758
+14/02/2022 06:36:09 PM - INFO - log - Get LATEST chromedriver version for 98.0.4758 google-chrome
+14/02/2022 06:36:10 PM - INFO - log - Driver [C:\Users\Bilal Hussain\.wdm\drivers\chromedriver\win32\98.0.4758.80\chromedriver.exe] found in cache
+14/02/2022 06:56:05 PM - INFO - log - 
+
+14/02/2022 06:56:05 PM - INFO - log - ====== WebDriver manager ======
+14/02/2022 06:56:05 PM - INFO - log - Current google-chrome version is 98.0.4758
+14/02/2022 06:56:05 PM - INFO - log - Get LATEST chromedriver version for 98.0.4758 google-chrome
+14/02/2022 06:56:05 PM - INFO - log - Driver [C:\Users\Bilal Hussain\.wdm\drivers\chromedriver\win32\98.0.4758.80\chromedriver.exe] found in cache
+14/02/2022 06:58:27 PM - INFO - log - 
+
+14/02/2022 06:58:27 PM - INFO - log - ====== WebDriver manager ======
+14/02/2022 06:58:27 PM - INFO - log - Current google-chrome version is 98.0.4758
+14/02/2022 06:58:27 PM - INFO - log - Get LATEST chromedriver version for 98.0.4758 google-chrome
+14/02/2022 06:58:27 PM - INFO - log - Driver [C:\Users\Bilal Hussain\.wdm\drivers\chromedriver\win32\98.0.4758.80\chromedriver.exe] found in cache
+14/02/2022 06:59:49 PM - INFO - log - 
+
+14/02/2022 06:59:49 PM - INFO - log - ====== WebDriver manager ======
+14/02/2022 06:59:49 PM - INFO - log - Current google-chrome version is 98.0.4758
+14/02/2022 06:59:49 PM - INFO - log - Get LATEST chromedriver version for 98.0.4758 google-chrome
+14/02/2022 06:59:49 PM - INFO - log - Driver [C:\Users\Bilal Hussain\.wdm\drivers\chromedriver\win32\98.0.4758.80\chromedriver.exe] found in cache
+14/02/2022 07:02:12 PM - INFO - log - 
+
+14/02/2022 07:02:12 PM - INFO - log - ====== WebDriver manager ======
+14/02/2022 07:02:12 PM - INFO - log - Current google-chrome version is 98.0.4758
+14/02/2022 07:02:12 PM - INFO - log - Get LATEST chromedriver version for 98.0.4758 google-chrome
+14/02/2022 07:02:12 PM - INFO - log - Driver [C:\Users\Bilal Hussain\.wdm\drivers\chromedriver\win32\98.0.4758.80\chromedriver.exe] found in cache
+14/02/2022 07:06:48 PM - INFO - log - 
+
+14/02/2022 07:06:48 PM - INFO - log - ====== WebDriver manager ======
+14/02/2022 07:06:48 PM - INFO - log - Current google-chrome version is 98.0.4758
+14/02/2022 07:06:48 PM - INFO - log - Get LATEST chromedriver version for 98.0.4758 google-chrome
+14/02/2022 07:06:48 PM - INFO - log - Driver [C:\Users\Bilal Hussain\.wdm\drivers\chromedriver\win32\98.0.4758.80\chromedriver.exe] found in cache
+14/02/2022 07:09:18 PM - INFO - log - 
+
+14/02/2022 07:09:18 PM - INFO - log - ====== WebDriver manager ======
+14/02/2022 07:09:18 PM - INFO - log - Current google-chrome version is 98.0.4758
+14/02/2022 07:09:18 PM - INFO - log - Get LATEST chromedriver version for 98.0.4758 google-chrome
+14/02/2022 07:09:18 PM - INFO - log - Driver [C:\Users\Bilal Hussain\.wdm\drivers\chromedriver\win32\98.0.4758.80\chromedriver.exe] found in cache
+14/02/2022 07:13:42 PM - INFO - log - 
+
+14/02/2022 07:13:42 PM - INFO - log - ====== WebDriver manager ======
+14/02/2022 07:13:42 PM - INFO - log - Current google-chrome version is 98.0.4758
+14/02/2022 07:13:42 PM - INFO - log - Get LATEST chromedriver version for 98.0.4758 google-chrome
+14/02/2022 07:13:43 PM - INFO - log - Driver [C:\Users\Bilal Hussain\.wdm\drivers\chromedriver\win32\98.0.4758.80\chromedriver.exe] found in cache
+14/02/2022 07:14:46 PM - INFO - log - 
+
+14/02/2022 07:14:46 PM - INFO - log - ====== WebDriver manager ======
+14/02/2022 07:14:46 PM - INFO - log - Current google-chrome version is 98.0.4758
+14/02/2022 07:14:46 PM - INFO - log - Get LATEST chromedriver version for 98.0.4758 google-chrome
+14/02/2022 07:14:46 PM - INFO - log - Driver [C:\Users\Bilal Hussain\.wdm\drivers\chromedriver\win32\98.0.4758.80\chromedriver.exe] found in cache
+14/02/2022 07:19:44 PM - INFO - log - 
+
+14/02/2022 07:19:44 PM - INFO - log - ====== WebDriver manager ======
+14/02/2022 07:19:44 PM - INFO - log - Current google-chrome version is 98.0.4758
+14/02/2022 07:19:44 PM - INFO - log - Get LATEST chromedriver version for 98.0.4758 google-chrome
+14/02/2022 07:19:45 PM - INFO - log - Driver [C:\Users\Bilal Hussain\.wdm\drivers\chromedriver\win32\98.0.4758.80\chromedriver.exe] found in cache
+14/02/2022 07:26:40 PM - INFO - log - 
+
+14/02/2022 07:26:40 PM - INFO - log - ====== WebDriver manager ======
+14/02/2022 07:26:40 PM - INFO - log - Current google-chrome version is 98.0.4758
+14/02/2022 07:26:40 PM - INFO - log - Get LATEST chromedriver version for 98.0.4758 google-chrome
+14/02/2022 07:26:40 PM - INFO - log - Driver [C:\Users\Bilal Hussain\.wdm\drivers\chromedriver\win32\98.0.4758.80\chromedriver.exe] found in cache
+14/02/2022 07:32:00 PM - INFO - log - 
+
+14/02/2022 07:32:00 PM - INFO - log - ====== WebDriver manager ======
+14/02/2022 07:32:00 PM - INFO - log - Current google-chrome version is 98.0.4758
+14/02/2022 07:32:00 PM - INFO - log - Get LATEST chromedriver version for 98.0.4758 google-chrome
+14/02/2022 07:32:00 PM - INFO - log - Driver [C:\Users\Bilal Hussain\.wdm\drivers\chromedriver\win32\98.0.4758.80\chromedriver.exe] found in cache
+14/02/2022 07:33:04 PM - INFO - log - 
+
+14/02/2022 07:33:04 PM - INFO - log - ====== WebDriver manager ======
+14/02/2022 07:33:04 PM - INFO - log - Current google-chrome version is 98.0.4758
+14/02/2022 07:33:04 PM - INFO - log - Get LATEST chromedriver version for 98.0.4758 google-chrome
+14/02/2022 07:33:04 PM - INFO - log - Driver [C:\Users\Bilal Hussain\.wdm\drivers\chromedriver\win32\98.0.4758.80\chromedriver.exe] found in cache
+14/02/2022 07:33:52 PM - INFO - log - 
+
+14/02/2022 07:33:52 PM - INFO - log - ====== WebDriver manager ======
+14/02/2022 07:33:52 PM - INFO - log - Current google-chrome version is 98.0.4758
+14/02/2022 07:33:52 PM - INFO - log - Get LATEST chromedriver version for 98.0.4758 google-chrome
+14/02/2022 07:33:53 PM - INFO - log - Driver [C:\Users\Bilal Hussain\.wdm\drivers\chromedriver\win32\98.0.4758.80\chromedriver.exe] found in cache
+14/02/2022 07:37:51 PM - INFO - log - 
+
+14/02/2022 07:37:51 PM - INFO - log - ====== WebDriver manager ======
+14/02/2022 07:37:51 PM - INFO - log - Current google-chrome version is 98.0.4758
+14/02/2022 07:37:51 PM - INFO - log - Get LATEST chromedriver version for 98.0.4758 google-chrome
+14/02/2022 07:37:52 PM - INFO - log - Driver [C:\Users\Bilal Hussain\.wdm\drivers\chromedriver\win32\98.0.4758.80\chromedriver.exe] found in cache
+14/02/2022 07:38:44 PM - INFO - log - 
+
+14/02/2022 07:38:44 PM - INFO - log - ====== WebDriver manager ======
+14/02/2022 07:38:44 PM - INFO - log - Current google-chrome version is 98.0.4758
+14/02/2022 07:38:44 PM - INFO - log - Get LATEST chromedriver version for 98.0.4758 google-chrome
+14/02/2022 07:38:44 PM - INFO - log - Driver [C:\Users\Bilal Hussain\.wdm\drivers\chromedriver\win32\98.0.4758.80\chromedriver.exe] found in cache
+14/02/2022 07:39:21 PM - INFO - log - 
+
+14/02/2022 07:39:21 PM - INFO - log - ====== WebDriver manager ======
+14/02/2022 07:39:21 PM - INFO - log - Current google-chrome version is 98.0.4758
+14/02/2022 07:39:21 PM - INFO - log - Get LATEST chromedriver version for 98.0.4758 google-chrome
+14/02/2022 07:39:21 PM - INFO - log - Driver [C:\Users\Bilal Hussain\.wdm\drivers\chromedriver\win32\98.0.4758.80\chromedriver.exe] found in cache
+14/02/2022 07:41:42 PM - INFO - log - 
+
+14/02/2022 07:41:42 PM - INFO - log - ====== WebDriver manager ======
+14/02/2022 07:41:42 PM - INFO - log - Current google-chrome version is 98.0.4758
+14/02/2022 07:41:42 PM - INFO - log - Get LATEST chromedriver version for 98.0.4758 google-chrome
+14/02/2022 07:41:42 PM - INFO - log - Driver [C:\Users\Bilal Hussain\.wdm\drivers\chromedriver\win32\98.0.4758.80\chromedriver.exe] found in cache
+14/02/2022 07:44:34 PM - INFO - log - 
+
+14/02/2022 07:44:34 PM - INFO - log - ====== WebDriver manager ======
+14/02/2022 07:44:34 PM - INFO - log - Current google-chrome version is 98.0.4758
+14/02/2022 07:44:34 PM - INFO - log - Get LATEST chromedriver version for 98.0.4758 google-chrome
+14/02/2022 07:44:34 PM - INFO - log - Driver [C:\Users\Bilal Hussain\.wdm\drivers\chromedriver\win32\98.0.4758.80\chromedriver.exe] found in cache
+14/02/2022 07:45:33 PM - INFO - log - 
+
+14/02/2022 07:45:33 PM - INFO - log - ====== WebDriver manager ======
+14/02/2022 07:45:33 PM - INFO - log - Current google-chrome version is 98.0.4758
+14/02/2022 07:45:33 PM - INFO - log - Get LATEST chromedriver version for 98.0.4758 google-chrome
+14/02/2022 07:45:33 PM - INFO - log - Driver [C:\Users\Bilal Hussain\.wdm\drivers\chromedriver\win32\98.0.4758.80\chromedriver.exe] found in cache
+14/02/2022 07:46:42 PM - INFO - log - 
+
+14/02/2022 07:46:42 PM - INFO - log - ====== WebDriver manager ======
+14/02/2022 07:46:42 PM - INFO - log - Current google-chrome version is 98.0.4758
+14/02/2022 07:46:42 PM - INFO - log - Get LATEST chromedriver version for 98.0.4758 google-chrome
+14/02/2022 07:46:42 PM - INFO - log - Driver [C:\Users\Bilal Hussain\.wdm\drivers\chromedriver\win32\98.0.4758.80\chromedriver.exe] found in cache
+14/02/2022 07:50:45 PM - INFO - log - 
+
+14/02/2022 07:50:45 PM - INFO - log - ====== WebDriver manager ======
+14/02/2022 07:50:45 PM - INFO - log - Current google-chrome version is 98.0.4758
+14/02/2022 07:50:45 PM - INFO - log - Get LATEST chromedriver version for 98.0.4758 google-chrome
+14/02/2022 07:50:45 PM - INFO - log - Driver [C:\Users\Bilal Hussain\.wdm\drivers\chromedriver\win32\98.0.4758.80\chromedriver.exe] found in cache
+14/02/2022 07:54:33 PM - INFO - log - 
+
+14/02/2022 07:54:33 PM - INFO - log - ====== WebDriver manager ======
+14/02/2022 07:54:33 PM - INFO - log - Current google-chrome version is 98.0.4758
+14/02/2022 07:54:33 PM - INFO - log - Get LATEST chromedriver version for 98.0.4758 google-chrome
+14/02/2022 07:54:33 PM - INFO - log - Driver [C:\Users\Bilal Hussain\.wdm\drivers\chromedriver\win32\98.0.4758.80\chromedriver.exe] found in cache
+14/02/2022 07:55:27 PM - INFO - log - 
+
+14/02/2022 07:55:27 PM - INFO - log - ====== WebDriver manager ======
+14/02/2022 07:55:27 PM - INFO - log - Current google-chrome version is 98.0.4758
+14/02/2022 07:55:27 PM - INFO - log - Get LATEST chromedriver version for 98.0.4758 google-chrome
+14/02/2022 07:55:27 PM - INFO - log - Driver [C:\Users\Bilal Hussain\.wdm\drivers\chromedriver\win32\98.0.4758.80\chromedriver.exe] found in cache
+14/02/2022 07:57:06 PM - INFO - log - 
+
+14/02/2022 07:57:06 PM - INFO - log - ====== WebDriver manager ======
+14/02/2022 07:57:06 PM - INFO - log - Current google-chrome version is 98.0.4758
+14/02/2022 07:57:06 PM - INFO - log - Get LATEST chromedriver version for 98.0.4758 google-chrome
+14/02/2022 07:57:06 PM - INFO - log - Driver [C:\Users\Bilal Hussain\.wdm\drivers\chromedriver\win32\98.0.4758.80\chromedriver.exe] found in cache
+14/02/2022 08:18:39 PM - INFO - log - 
+
+14/02/2022 08:18:39 PM - INFO - log - ====== WebDriver manager ======
+14/02/2022 08:18:39 PM - INFO - log - Current google-chrome version is 98.0.4758
+14/02/2022 08:18:39 PM - INFO - log - Get LATEST chromedriver version for 98.0.4758 google-chrome
+14/02/2022 08:18:39 PM - INFO - log - Driver [C:\Users\Bilal Hussain\.wdm\drivers\chromedriver\win32\98.0.4758.80\chromedriver.exe] found in cache
+14/02/2022 08:21:55 PM - INFO - log - 
+
+14/02/2022 08:21:55 PM - INFO - log - ====== WebDriver manager ======
+14/02/2022 08:21:55 PM - INFO - log - Current google-chrome version is 98.0.4758
+14/02/2022 08:21:55 PM - INFO - log - Get LATEST chromedriver version for 98.0.4758 google-chrome
+14/02/2022 08:21:55 PM - INFO - log - Driver [C:\Users\Bilal Hussain\.wdm\drivers\chromedriver\win32\98.0.4758.80\chromedriver.exe] found in cache
+14/02/2022 08:23:49 PM - INFO - log - 
+
+14/02/2022 08:23:49 PM - INFO - log - ====== WebDriver manager ======
+14/02/2022 08:23:49 PM - INFO - log - Current google-chrome version is 98.0.4758
+14/02/2022 08:23:49 PM - INFO - log - Get LATEST chromedriver version for 98.0.4758 google-chrome
+14/02/2022 08:23:50 PM - INFO - log - Driver [C:\Users\Bilal Hussain\.wdm\drivers\chromedriver\win32\98.0.4758.80\chromedriver.exe] found in cache
+14/02/2022 08:24:56 PM - INFO - log - 
+
+14/02/2022 08:24:56 PM - INFO - log - ====== WebDriver manager ======
+14/02/2022 08:24:56 PM - INFO - log - Current google-chrome version is 98.0.4758
+14/02/2022 08:24:56 PM - INFO - log - Get LATEST chromedriver version for 98.0.4758 google-chrome
+14/02/2022 08:24:56 PM - INFO - log - Driver [C:\Users\Bilal Hussain\.wdm\drivers\chromedriver\win32\98.0.4758.80\chromedriver.exe] found in cache
+14/02/2022 08:33:41 PM - INFO - log - 
+
+14/02/2022 08:33:41 PM - INFO - log - ====== WebDriver manager ======
+14/02/2022 08:33:41 PM - INFO - log - Current google-chrome version is 98.0.4758
+14/02/2022 08:33:41 PM - INFO - log - Get LATEST chromedriver version for 98.0.4758 google-chrome
+14/02/2022 08:33:41 PM - INFO - log - Driver [C:\Users\Bilal Hussain\.wdm\drivers\chromedriver\win32\98.0.4758.80\chromedriver.exe] found in cache
+14/02/2022 08:36:42 PM - INFO - log - 
+
+14/02/2022 08:36:42 PM - INFO - log - ====== WebDriver manager ======
+14/02/2022 08:36:42 PM - INFO - log - Current google-chrome version is 98.0.4758
+14/02/2022 08:36:42 PM - INFO - log - Get LATEST chromedriver version for 98.0.4758 google-chrome
+14/02/2022 08:36:43 PM - INFO - log - Driver [C:\Users\Bilal Hussain\.wdm\drivers\chromedriver\win32\98.0.4758.80\chromedriver.exe] found in cache
+14/02/2022 08:39:25 PM - INFO - log - 
+
+14/02/2022 08:39:25 PM - INFO - log - ====== WebDriver manager ======
+14/02/2022 08:39:25 PM - INFO - log - Current google-chrome version is 98.0.4758
+14/02/2022 08:39:25 PM - INFO - log - Get LATEST chromedriver version for 98.0.4758 google-chrome
+14/02/2022 08:39:26 PM - INFO - log - Driver [C:\Users\Bilal Hussain\.wdm\drivers\chromedriver\win32\98.0.4758.80\chromedriver.exe] found in cache
+14/02/2022 08:41:39 PM - INFO - log - 
+
+14/02/2022 08:41:39 PM - INFO - log - ====== WebDriver manager ======
+14/02/2022 08:41:39 PM - INFO - log - Current google-chrome version is 98.0.4758
+14/02/2022 08:41:39 PM - INFO - log - Get LATEST chromedriver version for 98.0.4758 google-chrome
+14/02/2022 08:41:39 PM - INFO - log - Driver [C:\Users\Bilal Hussain\.wdm\drivers\chromedriver\win32\98.0.4758.80\chromedriver.exe] found in cache
+14/02/2022 08:56:33 PM - INFO - log - 
+
+14/02/2022 08:56:33 PM - INFO - log - ====== WebDriver manager ======
+14/02/2022 08:56:33 PM - INFO - log - Current google-chrome version is 98.0.4758
+14/02/2022 08:56:33 PM - INFO - log - Get LATEST chromedriver version for 98.0.4758 google-chrome
+14/02/2022 08:56:34 PM - INFO - log - Driver [C:\Users\Bilal Hussain\.wdm\drivers\chromedriver\win32\98.0.4758.80\chromedriver.exe] found in cache
+14/02/2022 08:59:56 PM - INFO - log - 
+
+14/02/2022 08:59:56 PM - INFO - log - ====== WebDriver manager ======
+14/02/2022 08:59:56 PM - INFO - log - Current google-chrome version is 98.0.4758
+14/02/2022 08:59:56 PM - INFO - log - Get LATEST chromedriver version for 98.0.4758 google-chrome
+14/02/2022 08:59:57 PM - INFO - log - Driver [C:\Users\Bilal Hussain\.wdm\drivers\chromedriver\win32\98.0.4758.80\chromedriver.exe] found in cache
+14/02/2022 09:09:54 PM - INFO - log - 
+
+14/02/2022 09:09:54 PM - INFO - log - ====== WebDriver manager ======
+14/02/2022 09:09:54 PM - INFO - log - Current google-chrome version is 98.0.4758
+14/02/2022 09:09:54 PM - INFO - log - Get LATEST chromedriver version for 98.0.4758 google-chrome
+14/02/2022 09:09:54 PM - INFO - log - Driver [C:\Users\Bilal Hussain\.wdm\drivers\chromedriver\win32\98.0.4758.80\chromedriver.exe] found in cache
+14/02/2022 09:10:47 PM - INFO - log - 
+
+14/02/2022 09:10:47 PM - INFO - log - ====== WebDriver manager ======
+14/02/2022 09:10:47 PM - INFO - log - Current google-chrome version is 98.0.4758
+14/02/2022 09:10:47 PM - INFO - log - Get LATEST chromedriver version for 98.0.4758 google-chrome
+14/02/2022 09:10:47 PM - INFO - log - Driver [C:\Users\Bilal Hussain\.wdm\drivers\chromedriver\win32\98.0.4758.80\chromedriver.exe] found in cache
+14/02/2022 09:12:18 PM - INFO - log - 
+
+14/02/2022 09:12:18 PM - INFO - log - ====== WebDriver manager ======
+14/02/2022 09:12:18 PM - INFO - log - Current google-chrome version is 98.0.4758
+14/02/2022 09:12:18 PM - INFO - log - Get LATEST chromedriver version for 98.0.4758 google-chrome
+14/02/2022 09:12:18 PM - INFO - log - Driver [C:\Users\Bilal Hussain\.wdm\drivers\chromedriver\win32\98.0.4758.80\chromedriver.exe] found in cache
+14/02/2022 09:13:44 PM - INFO - log - 
+
+14/02/2022 09:13:44 PM - INFO - log - ====== WebDriver manager ======
+14/02/2022 09:13:44 PM - INFO - log - Current google-chrome version is 98.0.4758
+14/02/2022 09:13:44 PM - INFO - log - Get LATEST chromedriver version for 98.0.4758 google-chrome
+14/02/2022 09:13:44 PM - INFO - log - Driver [C:\Users\Bilal Hussain\.wdm\drivers\chromedriver\win32\98.0.4758.80\chromedriver.exe] found in cache
+14/02/2022 09:15:25 PM - INFO - log - 
+
+14/02/2022 09:15:25 PM - INFO - log - ====== WebDriver manager ======
+14/02/2022 09:15:25 PM - INFO - log - Current google-chrome version is 98.0.4758
+14/02/2022 09:15:25 PM - INFO - log - Get LATEST chromedriver version for 98.0.4758 google-chrome
+14/02/2022 09:15:25 PM - INFO - log - Driver [C:\Users\Bilal Hussain\.wdm\drivers\chromedriver\win32\98.0.4758.80\chromedriver.exe] found in cache
+14/02/2022 09:17:40 PM - INFO - log - 
+
+14/02/2022 09:17:40 PM - INFO - log - ====== WebDriver manager ======
+14/02/2022 09:17:40 PM - INFO - log - Current google-chrome version is 98.0.4758
+14/02/2022 09:17:40 PM - INFO - log - Get LATEST chromedriver version for 98.0.4758 google-chrome
+14/02/2022 09:17:40 PM - INFO - log - Driver [C:\Users\Bilal Hussain\.wdm\drivers\chromedriver\win32\98.0.4758.80\chromedriver.exe] found in cache
+14/02/2022 09:21:01 PM - INFO - log - 
+
+14/02/2022 09:21:01 PM - INFO - log - ====== WebDriver manager ======
+14/02/2022 09:21:01 PM - INFO - log - Current google-chrome version is 98.0.4758
+14/02/2022 09:21:01 PM - INFO - log - Get LATEST chromedriver version for 98.0.4758 google-chrome
+14/02/2022 09:21:02 PM - INFO - log - Driver [C:\Users\Bilal Hussain\.wdm\drivers\chromedriver\win32\98.0.4758.80\chromedriver.exe] found in cache
+14/02/2022 09:22:42 PM - INFO - log - 
+
+14/02/2022 09:22:42 PM - INFO - log - ====== WebDriver manager ======
+14/02/2022 09:22:42 PM - INFO - log - Current google-chrome version is 98.0.4758
+14/02/2022 09:22:42 PM - INFO - log - Get LATEST chromedriver version for 98.0.4758 google-chrome
+14/02/2022 09:22:43 PM - INFO - log - Driver [C:\Users\Bilal Hussain\.wdm\drivers\chromedriver\win32\98.0.4758.80\chromedriver.exe] found in cache
+14/02/2022 09:54:25 PM - INFO - log - 
+
+14/02/2022 09:54:25 PM - INFO - log - ====== WebDriver manager ======
+14/02/2022 09:54:25 PM - INFO - log - Current google-chrome version is 98.0.4758
+14/02/2022 09:54:25 PM - INFO - log - Get LATEST chromedriver version for 98.0.4758 google-chrome
+14/02/2022 09:54:25 PM - INFO - log - Driver [C:\Users\Bilal Hussain\.wdm\drivers\chromedriver\win32\98.0.4758.80\chromedriver.exe] found in cache
+14/02/2022 09:57:00 PM - INFO - log - 
+
+14/02/2022 09:57:00 PM - INFO - log - ====== WebDriver manager ======
+14/02/2022 09:57:00 PM - INFO - log - Current google-chrome version is 98.0.4758
+14/02/2022 09:57:00 PM - INFO - log - Get LATEST chromedriver version for 98.0.4758 google-chrome
+14/02/2022 09:57:00 PM - INFO - log - Driver [C:\Users\Bilal Hussain\.wdm\drivers\chromedriver\win32\98.0.4758.80\chromedriver.exe] found in cache
+14/02/2022 09:58:08 PM - INFO - log - 
+
+14/02/2022 09:58:08 PM - INFO - log - ====== WebDriver manager ======
+14/02/2022 09:58:08 PM - INFO - log - Current google-chrome version is 98.0.4758
+14/02/2022 09:58:08 PM - INFO - log - Get LATEST chromedriver version for 98.0.4758 google-chrome
+14/02/2022 09:58:08 PM - INFO - log - Driver [C:\Users\Bilal Hussain\.wdm\drivers\chromedriver\win32\98.0.4758.80\chromedriver.exe] found in cache
+14/02/2022 10:01:16 PM - INFO - log - 
+
+14/02/2022 10:01:16 PM - INFO - log - ====== WebDriver manager ======
+14/02/2022 10:01:16 PM - INFO - log - Current google-chrome version is 98.0.4758
+14/02/2022 10:01:16 PM - INFO - log - Get LATEST chromedriver version for 98.0.4758 google-chrome
+14/02/2022 10:01:17 PM - INFO - log - Driver [C:\Users\Bilal Hussain\.wdm\drivers\chromedriver\win32\98.0.4758.80\chromedriver.exe] found in cache
+14/02/2022 10:02:46 PM - INFO - log - 
+
+14/02/2022 10:02:46 PM - INFO - log - ====== WebDriver manager ======
+14/02/2022 10:02:46 PM - INFO - log - Current google-chrome version is 98.0.4758
+14/02/2022 10:02:46 PM - INFO - log - Get LATEST chromedriver version for 98.0.4758 google-chrome
+14/02/2022 10:02:46 PM - INFO - log - Driver [C:\Users\Bilal Hussain\.wdm\drivers\chromedriver\win32\98.0.4758.80\chromedriver.exe] found in cache
+14/02/2022 10:03:54 PM - INFO - log - 
+
+14/02/2022 10:03:54 PM - INFO - log - ====== WebDriver manager ======
+14/02/2022 10:03:54 PM - INFO - log - Current google-chrome version is 98.0.4758
+14/02/2022 10:03:54 PM - INFO - log - Get LATEST chromedriver version for 98.0.4758 google-chrome
+14/02/2022 10:03:55 PM - INFO - log - Driver [C:\Users\Bilal Hussain\.wdm\drivers\chromedriver\win32\98.0.4758.80\chromedriver.exe] found in cache
+14/02/2022 10:13:50 PM - INFO - log - 
+
+14/02/2022 10:13:50 PM - INFO - log - ====== WebDriver manager ======
+14/02/2022 10:13:50 PM - INFO - log - Current google-chrome version is 98.0.4758
+14/02/2022 10:13:50 PM - INFO - log - Get LATEST chromedriver version for 98.0.4758 google-chrome
+14/02/2022 10:13:50 PM - INFO - log - Driver [C:\Users\Bilal Hussain\.wdm\drivers\chromedriver\win32\98.0.4758.80\chromedriver.exe] found in cache
+14/02/2022 10:35:20 PM - INFO - log - 
+
+14/02/2022 10:35:20 PM - INFO - log - ====== WebDriver manager ======
+14/02/2022 10:35:20 PM - INFO - log - Current google-chrome version is 98.0.4758
+14/02/2022 10:35:20 PM - INFO - log - Get LATEST chromedriver version for 98.0.4758 google-chrome
+14/02/2022 10:35:20 PM - INFO - log - Driver [C:\Users\Bilal Hussain\.wdm\drivers\chromedriver\win32\98.0.4758.80\chromedriver.exe] found in cache
+14/02/2022 10:50:51 PM - INFO - log - 
+
+14/02/2022 10:50:51 PM - INFO - log - ====== WebDriver manager ======
+14/02/2022 10:50:51 PM - INFO - log - Current google-chrome version is 98.0.4758
+14/02/2022 10:50:51 PM - INFO - log - Get LATEST chromedriver version for 98.0.4758 google-chrome
+14/02/2022 10:50:52 PM - INFO - log - Driver [C:\Users\Bilal Hussain\.wdm\drivers\chromedriver\win32\98.0.4758.80\chromedriver.exe] found in cache
+14/02/2022 10:51:30 PM - INFO - log - 
+
+14/02/2022 10:51:30 PM - INFO - log - ====== WebDriver manager ======
+14/02/2022 10:51:30 PM - INFO - log - Current google-chrome version is 98.0.4758
+14/02/2022 10:51:30 PM - INFO - log - Get LATEST chromedriver version for 98.0.4758 google-chrome
+14/02/2022 10:51:31 PM - INFO - log - Driver [C:\Users\Bilal Hussain\.wdm\drivers\chromedriver\win32\98.0.4758.80\chromedriver.exe] found in cache
+14/02/2022 10:52:36 PM - INFO - log - 
+
+14/02/2022 10:52:36 PM - INFO - log - ====== WebDriver manager ======
+14/02/2022 10:52:36 PM - INFO - log - Current google-chrome version is 98.0.4758
+14/02/2022 10:52:36 PM - INFO - log - Get LATEST chromedriver version for 98.0.4758 google-chrome
+14/02/2022 10:52:36 PM - INFO - log - Driver [C:\Users\Bilal Hussain\.wdm\drivers\chromedriver\win32\98.0.4758.80\chromedriver.exe] found in cache
